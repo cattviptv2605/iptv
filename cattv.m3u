@@ -552,6 +552,8 @@ https://cdn1.googlecdn.live/4k/lovenature4k/playlist.m3u8
 https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" group-title="ช่องสารคดี", trueX-ZYTE
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truexzyte.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" group-title="ช่องสารคดี", trueX-ZYTE
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/xzyte.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="ช่องสารคดี",Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
