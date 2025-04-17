@@ -489,10 +489,7 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0180/DASH
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี",DiscoveryAsia
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7d2b3a2ee44d2d9e676f5ff1c09cc57:17d93e04b88ec01e67e3f07f68947164
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0181/DASH/V0181.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dc57ce484a46db31c32dcf5f7ecaabe2&chunkHttps=true&tmid=B0003&tpbk=Ld8k7FWNDy2MBhWS&rrt=1744853466&tmod=rfk&rsid=2e339161-c170-4779-ad7c-aded05dbe41c&tuid=481188ed3b&cdn=redfox-https&tdid=b3de881184e3f807e4e980518f786cd6&origin=anevia&tfa=f0-fc&tttl=1744939866
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/discoverasia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่องสารคดี",History
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truehistroy.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่องสารคดี",History
