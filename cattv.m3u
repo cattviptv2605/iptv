@@ -208,8 +208,7 @@ https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueTHAIFILM
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truethaifilm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueTHAIFILM
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/truethaiflim.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/thaifilm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM1
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truefilm1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM1
@@ -221,10 +220,9 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truefilm2.m3u8
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://playtvthai.github.io/m3u8/movie/film2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueMOVIEHITS
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truemoviehit.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truemoviehits.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueMOVIEHITS
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/truehitsmovie.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/moviehit.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueFILMASIA
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truefilmasia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueFILMASIA
@@ -249,20 +247,24 @@ https://playtvthai.github.io/m3u8/movie/ccm.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png" group-title="ช่องบันเทิง",TVBThai
-https://edge2a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png" group-title="ช่องบันเทิง",AsianHits
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/aisanhits.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="ช่องบันเทิง",Dragon
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="ช่องบันเทิง",Dragon
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/dragon.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png" group-title="ช่องบันเทิง",TVBThai
+https://edge2a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0039.png" group-title="ช่องบันเทิง",Attv
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7c07f020-2515-11ee-ac34-39c66cab230f_webp_original.webp" group-title="ช่องบันเทิง",Cool Channel
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QfgNajz.png" group-title="ช่องบันเทิง",Siam Channel
+https://n-edge-1-th.v2h-cdn.com/siam/siam/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg" group-title="ช่องบันเทิง",FWMOV
 https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDg6Mzg6NDMgQU0maGFzaF92YWx1ZT1VaG0yclIvdkt4eUwzU0I2MkxLTEtnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg" group-title="ช่องบันเทิง",FWSOV
 https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDg6Mzg6NDMgQU0maGFzaF92YWx1ZT1VaG0yclIvdkt4eUwzU0I2MkxLTEtnPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QfgNajz.png" group-title="ช่องบันเทิง",Siam Channel
-https://n-edge-1-th.v2h-cdn.com/siam/siam/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png" group-title="ช่องบันเทิง",Thainews
 https://live.thaitvstream.com/play/thainews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png" group-title="ช่องบันเทิง",Siamnewstv
@@ -509,13 +511,11 @@ https://playtvthai.github.io/m3u8/movie/trueexpwild.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORELIFE
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueexplorelife.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORELIFE
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/trueexplife.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/explorelife.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORESCI
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueexploresci.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORESCI
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/trueexpsci.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/exploresci.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0" group-title="ช่องสารคดี",BBCearth
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg" group-title="ช่องสารคดี",BBCLifestyle
