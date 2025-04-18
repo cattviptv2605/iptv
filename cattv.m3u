@@ -279,7 +279,7 @@ https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png" group-title="ช่องบันเทิง",Universal
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/H-Channel
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png" group-title="ช่องบันเทิง",iplaymedia
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/bubble-town/images/2/27/IPlay_Logo.jpg/revision/latest?cb=20180727201154" group-title="ช่องบันเทิง",iplaymedia
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/iplaymedia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg" group-title="ช่องบันเทิง",การ์ตูน
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
