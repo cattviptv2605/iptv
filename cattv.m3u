@@ -605,7 +605,7 @@ https://cdn1.googlecdn.live/4k/lovenature4k/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/dmax.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1714101765.png" group-title="ช่องสารคดี",DMAX
-http://4u.eagle4u.org:80/play/live.php?mac=00:1A:79:00:71:60&stream=1163770&extension.ts
+http://4u.eagle4u.org:80/play/live.php?mac=00:1A:79:00:71:60&stream=1163770&extension=m3u8&play_token=
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" group-title="ช่องสารคดี", trueX-ZYTE
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truexzyte.m3u8
