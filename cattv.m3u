@@ -526,10 +526,10 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/discover.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7e8393537881b2d8534238f3a916d5a4:2ae033b06e3fb8e3a26ad63fb74d0f2f
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0180/DASH/V0180.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=4d7a10862a27b1fe26a158b79c3b51da&chunkHttps=true&tmid=B0003&tpbk=EaKGRY4sLQtzTC1O&rrt=1745215779&tmod=rfk&rsid=656be32d-0a0c-4376-9211-27c65a0eeafb&tuid=481188ed3b&cdn=redfox-https&tdid=b3de881184e3f807e4e980518f786cd6&origin=anevia&tfa=f0-fc&tttl=1745302178
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี",DiscoveryAsia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/DiscoveryAsia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี",DiscoveryAsia
+#EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/discoverasia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่องสารคดี",History
 #EXTVLCOPT:http-referrer=https://github.com/
@@ -543,14 +543,14 @@ http://178.162.225.182:2082/live/Tourobox1-y85tOTzw47/Att3piLtZf/81.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueanimalplanet.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="ช่องสารคดี",Animal Planet
-#EXTVLCOPT:http-referrer=https://nfsnew.newkso.ru/
-https://nfsnew.newkso.ru/nfs/premium304/mono.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/animalplanet.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี",trueEXPLOREWILD
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueexplorewild.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี",trueEXPLOREWILD
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/trueexpwild.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truewild.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORELIFE
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueexplorelife.m3u8
