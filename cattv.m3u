@@ -1365,9 +1365,9 @@ https://wikinew.newkso.ru/top2/premium585/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://wikinew.newkso.ru/top2/premium586/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1715565710.png" group-title="ช่องกีฬาต่างประทศ",Premier Sport 1
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175197&extension=ts
+https://7pal.short.gy/prsport1
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1715565724.png" group-title="ช่องกีฬาต่างประทศ",,Premier Sport 2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175161&extension=ts
+https://7pal.short.gy/prsport2
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1663979709.png" group-title="ช่องกีฬาต่างประทศ",SPORTTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
@@ -1465,17 +1465,13 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712888821.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports F1
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium60/mono.m3u8
+https://7pal.short.gy/ssportsf1
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664576894.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports Football
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium35/mono.m3u8
+https://7pal.short.gy/ssportsfb
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1715648168.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports News
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175161&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1725980915.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports+
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175164&extension=ts
+https://7pal.short.gy/ssportplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1744742402.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports Cricket
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175166&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712888702.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports Golf
@@ -1490,10 +1486,20 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175178&extension=
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175180&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712889189.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports Racing 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175182&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712889076.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports Tennis
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium46/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="ช่องกีฬาต่างประทศ", SkySport1_NZ-FHD
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="ช่องกีฬาต่างประทศ", SkySport2_NZ-FHD
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="ช่องกีฬาต่างประทศ", SkySport3_NZ-FHD
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" group-title="ช่องกีฬาต่างประทศ", SkySport4_NZ-FHD
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" group-title="ช่องกีฬาต่างประทศ", SkySport6_NZ-FHD
+https://7pal.short.gy/skyspt6nz
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" group-title="ช่องกีฬาต่างประทศ", SkySport7_NZ-FHD
+https://7pal.short.gy/skyspt7nz
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="ช่องกีฬาต่างประทศ", SkySport8-PremierLeague_NZ-FHD
+https://7pal.short.gy/skyspt8nz
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d1UQXPt.png" group-title="ช่องกีฬาต่างประทศ",SuperSportGrandstand
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
