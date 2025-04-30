@@ -1348,6 +1348,8 @@ https://cdn1.googlecdnforstreaming.live/live/foxsports1usa/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/foxsports2usa/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.ctfassets.net/vhp9jnid12wf/6wwiQVYtS5r01zK05SYsZD/655f46a40c3a890bffb408ff4d6cc43a/Laliga.png?fm=webp&q=50" group-title="ช่องกีฬาต่างประทศ", laliga tv
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175213&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1694689157.png" group-title="ช่องกีฬาต่างประทศ",Prima Sport 1
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -1365,9 +1367,13 @@ https://wikinew.newkso.ru/top2/premium585/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://wikinew.newkso.ru/top2/premium586/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1715565710.png" group-title="ช่องกีฬาต่างประทศ",Premier Sport 1
-https://7pal.short.gy/prsport1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175217&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1715565710.png" group-title="ช่องกีฬาต่างประทศ",Premier Sport 1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175218&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1715565724.png" group-title="ช่องกีฬาต่างประทศ",,Premier Sport 2
-https://7pal.short.gy/prsport2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175219&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1715565724.png" group-title="ช่องกีฬาต่างประทศ",,Premier Sport 2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175220&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1663979709.png" group-title="ช่องกีฬาต่างประทศ",SPORTTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
@@ -1464,27 +1470,41 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1725980915.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1725980915.png" group-title="ช่องกีฬาต่างประทศ",SkySports+
 https://7pal.short.gy/ssportplus
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1715648168.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports News
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1715648168.png" group-title="ช่องกีฬาต่างประทศ",SkySportsNews-HD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175164&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1715648168.png" group-title="ช่องกีฬาต่างประทศ",SkySportsNews-FHD
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175160&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1744742402.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports Cricket
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712889189.png" group-title="ช่องกีฬาต่างประทศ",SkySportsAction-HD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175162&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712889189.png" group-title="ช่องกีฬาต่างประทศ",SkySportsAction-FHD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175163&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1744742402.png" group-title="ช่องกีฬาต่างประทศ",SkySportsCricket-HD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175166&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1744742402.png" group-title="ช่องกีฬาต่างประทศ",SkySportsCricket-FHD
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175167&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712888821.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports F1
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712888821.png" group-title="ช่องกีฬาต่างประทศ",SkySportsF1-HD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175168&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712888821.png" group-title="ช่องกีฬาต่างประทศ",SkySportsF1-FHD
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175169&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664576894.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports Football
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664576894.png" group-title="ช่องกีฬาต่างประทศ",SkySportsFootball-HD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175170&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664576894.png" group-title="ช่องกีฬาต่างประทศ",SkySportsFootball-FHD
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175171&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712888702.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports Golf
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712888702.png" group-title="ช่องกีฬาต่างประทศ",SkySportsGolf-HD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175172&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712888702.png" group-title="ช่องกีฬาต่างประทศ",SkySportsGolf-FHD
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175173&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1665106057.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports Main Event 
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712889285.png" group-title="ช่องกีฬาต่างประทศ",SkySportsMix 
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175174&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1665106057.png" group-title="ช่องกีฬาต่างประทศ",SkySportsMainEvent 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175175&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712889285.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports Mix 
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175177&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712889189.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports Action
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175178&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1696317833.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports Premier League
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1696317833.png" group-title="ช่องกีฬาต่างประทศ",SkySportsPremierLeague-HD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175179&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1696317833.png" group-title="ช่องกีฬาต่างประทศ",SkySportsPremierLeague-FHD
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175180&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712889189.png" group-title="ช่องกีฬาต่างประทศ",Sky Sports Racing 
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712889189.png" group-title="ช่องกีฬาต่างประทศ",SkySportsRacing 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175182&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="ช่องกีฬาต่างประทศ", SkySport1_NZ-FHD
 https://7pal.short.gy/skyspt1nz
