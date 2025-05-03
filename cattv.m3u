@@ -1042,7 +1042,7 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truetennis.m3u8
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/nba/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/308864143_166781909281516_6364889195803126705_n.jpg" group-title="ช่องกีฬาไทย",HiSports HD
-http://203.154.243.89:11001/hisport?m3u8
+http://playid.ddnsgeek.com:8080/live/Natt/12345/46.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1709380646.png" group-title="ช่องกีฬาไทย",สยามสปอร์ต 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
