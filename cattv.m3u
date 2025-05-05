@@ -635,10 +635,8 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/xzyte.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="ช่องสารคดี",Food Network
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7372347ddf65ab1594ee35362240dafa:4d78d33c15d1098214b3d3cd3bb7c2a4
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0162/DASH/V0162.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=a6590bb1d3b32c76a555bce589c84a9d&chunkHttps=true&tmid=B0003&tpbk=ZmsQZNrPutLwp3TR&rrt=1746408173&tmod=rfk&rsid=0a04d304-2a01-41c9-a643-da03cd415472&tuid=481188ed3b&cdn=redfox-https&tdid=b3de881184e3f807e4e980518f786cd6&origin=anevia&tfa=f0-fc&tttl=1746494573
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/foodnetwork.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="ช่องสารคดี", afn
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
