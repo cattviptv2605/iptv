@@ -365,53 +365,27 @@ http://watchindia.net:8880/live/83941/89339/2102.m3u8
 http://watchindia.net:8880/live/83941/89339/2101.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/usa/Syfy.png" group-title="ช่องบันเทิงต่างประเทศ",Syfy
 http://watchindia.net:8880/live/83941/89339/2127.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/usa/Syfy.png" group-title="ช่องบันเทิงต่างประเทศ",universal
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/universal.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/usa/Syfy.png" group-title="ช่องบันเทิงต่างประเทศ",universalcinema
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/universalcinema.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="ช่องบันเทิงต่างประเทศ",Hits
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
-https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/hits.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png" group-title="ช่องบันเทิงต่างประเทศ",HitsMovie
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
-https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/hitsmovie.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits Now.png"group-title="ช่องบันเทิงต่างประเทศ",HITS NOW
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3ODRfMTI5ODc4NF9I/Qk8tSEQucG5nJmhhc2g9MzU5N2Y0MGZkOTdmOTFmMTdmZjVkN2FkZjQzMmYzMDk=.png" group-title="ช่องบันเทิงต่างประเทศ",HBO FHD
-http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/8983.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3ODBfMTI5ODc4MF9I/Qk8tMi1IRC5wbmcmaGFzaD04ODI1MDAy/N2MwYWQ1YzlmODQ4MGVkZDQ2MTJmMDhiYQ==.png" group-title="ช่องบันเทิงต่างประเทศ",HBO 2 FHD
-http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/8984.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3ODJfMTI5ODc4Ml9I/Qk8tMy1IRC5wbmcmaGFzaD1kNDI3MzVk/MjgxZDcwMjM1MWJlZWYxYzY3ODczMWI1NQ==.png" group-title="ช่องบันเทิงต่างประเทศ",HBO 3 FHD
-http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/8985.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3MjlfMTI5ODcyOV9D/SU5FTUFYLUhELnBuZyZoYXNoPThlMTc0/ZjQ3MWViZmVkZjA3ODk0OTAzNzMwMWI3OGI1.png" group-title="ช่องบันเทิงต่างประเทศ",Cinemax FHD
-http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/8988.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDcl/MkYyOSUyRjEzNjI0MTdfMTM2MjQxN19D/SU5FTUFYLTItSEQucG5nJmhhc2g9ODYw/YTQ4N2E0NWYyOGU1ZGQ0Mzc5NTc5NDgwMWM2NzQ=.png" group-title="ช่องบันเทิงต่างประเทศ",Cinemax 2 FHD
-http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/31388.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="ช่องบันเทิงต่างประเทศ",AMC FHD
-http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/31382.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzI2XzE1NTMzMjZf/QVhOX0hELnBuZyZoYXNoPTU1NWRkMjk3MDc5ZWQ3ZjNkZDAwMDY5ZmRjODYyOWFk.png" group-title="ช่องบันเทิงต่างประเทศ",AXN FHD
-http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/8981.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="ช่องบันเทิงต่างประเทศ",AXN White
-http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/9081.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/AXN_Black_Logo.png" group-title="ช่องบันเทิงต่างประเทศ",AXN Black
-http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/9082.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/AXN_SPIN.png" group-title="ช่องบันเทิงต่างประเทศ",AXN Spin
-http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/9083.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_Film_Now_%282018%29.png" group-title="ช่องบันเทิงต่างประเทศ",Film Now FHD
-http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/8982.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="ช่องบันเทิงต่างประเทศ",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aESdqiB.png" group-title="ช่องบันเทิงต่างประเทศ",Afriwood Blockbuster
-https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="ช่องบันเทิงต่างประเทศ",Aurora Media Films
-https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="ช่องบันเทิงต่างประเทศ",AVA Family 
 https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="ช่องบันเทิงต่างประเทศ",CineRomantico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="ช่องบันเทิงต่างประเทศ",CineSony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="ช่องบันเทิงต่างประเทศ",CinePremiere
