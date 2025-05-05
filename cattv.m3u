@@ -1147,13 +1147,13 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/S0007/DASH
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Grandstand_%28Oct_2024%29.png/revision/latest?cb=20241121183356" group-title="ช่องกีฬาต่างประทศ",Astro Grandstand
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/astrograndstand.m3u8
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/astrograndstand.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_%28Oct_2024%29.png/revision/latest?cb=20241121183458" group-title="ช่องกีฬาต่างประทศ",Astro Football 
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/astrofootball.m3u8
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/astrofootball.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/800px-Astro_Premier_League_1_%282024%29.png" group-title="ช่องกีฬาต่างประทศ",Astro Premier League
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/astropremierleague.m3u8
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/astropremierleague.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Astro_Premier_League_2_%282024%29.png/800px-Astro_Premier_League_2_%282024%29.png" group-title="ช่องกีฬาต่างประทศ",Astro Premier League2
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/astropremierleague2.m3u8
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/astropremierleague2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041294.png" group-title="ช่องกีฬาต่างประทศ",ARENASPORT1
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
 https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/Arena%20Sport%201%20Serbia/playlist.m3u8
@@ -2116,6 +2116,9 @@ https://main.24playerhd.com/m3u8/8f6d8bdc04a5f925b4ce1542/8f6d8bdc04a5f925b4ce15
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2025/04/The-Last-of-Us-Season-2-2025-300x450.jpg" group-title="The-Last-of-Us ซีซั่น 2" ,[พากย์ไทย] EP3
 #EXTVLCOPT:http-referer=https://www.123-hd.com/
 https://main.24playerhd.com/m3u8/f7c7a41552dace79d23d3cc7/f7c7a41552dace79d23d3cc7438.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2025/04/The-Last-of-Us-Season-2-2025-300x450.jpg" group-title="The-Last-of-Us ซีซั่น 2" ,[พากย์ไทย] EP4
+#EXTVLCOPT:http-referer=https://www.123-hd.com/
+https://main.24playerhd.com/newplaylist/fbb814f25e45760691d593f9/fbb814f25e45760691d593f9.m3u8
 #EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5439/video/20306/20250104161944g7Zy.jpg" group-title="The Rig Season 1 เดอะริก มฤตยูปริศนา ซีซั่น 1" ,[พากย์ไทย] EP1
 #EXTVLCOPT:http-referer=https://movie24.tv/
 https://movie.server-cdn-streaming.com/api/uploads/movie/5439/video/20306/hls/movie_3.m3u8
