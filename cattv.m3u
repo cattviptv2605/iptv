@@ -355,14 +355,16 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/movies1.m3u8
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/movies2.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="ช่องบันเทิงต่างประเทศ",&Flix HD
-http://watchindia.net:8880/live/97869/86543/2088.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="ช่องบันเทิงต่างประเทศ",&Prive HD
-http://watchindia.net:8880/live/97869/86543/2103.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" group-title="ช่องบันเทิงต่างประเทศ",Movies Now HD
-http://watchindia.net:8880/live/97869/86543/2102.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="ช่องบันเทิงต่างประเทศ",Sony Pix HD
-http://watchindia.net:8880/live/97869/86543/2101.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="ช่องบันเทิงต่างประเทศ",&FlixHD
+http://watchindia.net:8880/live/83941/89339/2088.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="ช่องบันเทิงต่างประเทศ",&PriveHD
+http://watchindia.net:8880/live/83941/89339/2103.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" group-title="ช่องบันเทิงต่างประเทศ",MoviesNowHD
+http://watchindia.net:8880/live/83941/89339/2102.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="ช่องบันเทิงต่างประเทศ",SonyPixHD
+http://watchindia.net:8880/live/83941/89339/2101.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/usa/Syfy.png" group-title="ช่องบันเทิงต่างประเทศ",Syfy
+http://watchindia.net:8880/live/83941/89339/2127.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="ช่องบันเทิงต่างประเทศ",Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1410,6 +1412,26 @@ https://cdn2.aws-live-streaming.com/lsmscore/sporttv5/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/sporttv5/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="ช่องกีฬาต่างประทศ",SonyTen1HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watchindia.net/
+http://watchindia.net:8880/live/83941/89339/2215.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" group-title="ช่องกีฬาต่างประทศ",SonyTen2HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watchindia.net/
+http://watchindia.net:8880/live/83941/89339/1757.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_3_HD.png" group-title="ช่องกีฬาต่างประทศ",SonyTen3HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watchindia.net/
+http://watchindia.net:8880/live/83941/89339/1758.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_4_HD.png" group-title="ช่องกีฬาต่างประทศ",SonyTen4HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watchindia.net/
+http://watchindia.net:8880/live/83941/89339/2662.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_5_HD.png" group-title="ช่องกีฬาต่างประทศ",SonyTen5HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watchindia.net/
+http://watchindia.net:8880/live/83941/89339/2663.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/rs-sportklub1.png" group-title="ช่องกีฬาต่างประทศ",SPORTKLUB1
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
