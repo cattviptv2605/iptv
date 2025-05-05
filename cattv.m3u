@@ -365,10 +365,10 @@ http://watchindia.net:8880/live/83941/89339/2102.m3u8
 http://watchindia.net:8880/live/83941/89339/2101.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/usa/Syfy.png" group-title="ช่องบันเทิงต่างประเทศ",Syfy
 http://watchindia.net:8880/live/83941/89339/2127.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/usa/Syfy.png" group-title="ช่องบันเทิงต่างประเทศ",universal
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Universal_TV_2018.svg" group-title="ช่องบันเทิงต่างประเทศ",universal
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/universal.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/usa/Syfy.png" group-title="ช่องบันเทิงต่างประเทศ",universalcinema
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="ช่องบันเทิงต่างประเทศ",universalcinema
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/universalcinema.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="ช่องบันเทิงต่างประเทศ",Hits
