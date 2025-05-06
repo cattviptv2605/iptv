@@ -661,10 +661,15 @@ http://49.0.64.96:8007/Animal
 http://49.0.64.96:8007/WSCI
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240617204638FWDoc.jpg" group-title="ช่องสารคดี",FWDOC
 https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDg6Mzg6NDMgQU0maGFzaF92YWx1ZT1VaG0yclIvdkt4eUwzU0I2MkxLTEtnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/robotwars/images/3/33/DiscScience.jpg/revision/latest?cb=20210713150202" group-title="ช่องสารคดี",ScienceChannel
+#EXTVLCOPT:http-referrer=https://dokko1new.newkso.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium294/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-cdn4.welcomesoftware.com/assets/Smithsonian+logo.png/Zz0xZmFkYzFkNDllODIxMWVkYjQ1ZjU2NTk4OTgwZTZiYg==?width=768&height=430" group-title="ช่องสารคดี",Smithsonian Channel
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/smithsonian.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.shopify.com/s/files/1/0065/8076/4727/files/logo.png?height=628&pad_color=fff&v=1613611598&width=1200" group-title="ช่องสารคดี", Wired 2 Fish
+#EXTVLCOPT:http-referrer=https://dokko1new.newkso.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium603/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.shopify.com/s/files/1/0065/8076/4727/files/logo.png?height=628&pad_color=fff&v=1613611598&width=1200" group-title="ช่องสารคดี", Wired2Fish
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2016/09/14115726/planet-earth.jpg" group-title="ช่องสารคดี", planetearth
 #EXTVLCOPT:http-referrer=https://github.com/
@@ -678,8 +683,6 @@ https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="ช่องสารคดี",PetClub TV2
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png" group-title="ช่องสารคดี", Cablechannel37
-http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png" group-title="ช่องกีฬาไทย",TPF1
@@ -1142,17 +1145,21 @@ https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/astropremierlea
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/astropremierleague2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041294.png" group-title="ช่องกีฬาต่างประทศ",ARENASPORT1
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/Arena%20Sport%201%20Serbia/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ddy6new.newkso.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041506.png" group-title="ช่องกีฬาต่างประทศ",ARENASPORT2
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/Arena%20Sport%202%20Serbia/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://zekonew.newkso.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664219377.png" group-title="ช่องกีฬาต่างประทศ",ARENASPORT3
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/Arena%20Sport%203%20Serbia/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ddy6new.newkso.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664132050.png" group-title="ช่องกีฬาต่างประทศ",ARENASPORT4
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/Arena%20Sport%204%20Serbia/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://windnew.newkso.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://windnew.newkso.ru/wind/premium580/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664502377.png" group-title="ช่องกีฬาต่างประทศ",ARENASPORT5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://doolive4k.tv/
@@ -1168,29 +1175,35 @@ https://cdn1.googlecdn.live/ballsod24hrs/beinsport1fr/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/beinsport2fr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/fr-bein3hd.png" group-title="ช่องกีฬาต่างประทศ",BEIN3HD-FR
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-referrer=https://zekonew.newkso.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium118/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1733601219.png" group-title="ช่องกีฬาต่างประทศ",beIN Sports 4 Max
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/beIN%20Sport%20Max%204%20France/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ddy6new.newkso.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-5-max-404.png" group-title="ช่องกีฬาต่างประทศ",beIN Sports 5 Max
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/beIN%20Sport%20Max%205%20France/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ddy6new.newkso.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/BE_IN_SPORT_MAX_6_HD_2017.jpg/revision/latest/scale-to-width-down/1200?cb=20191022182510" group-title="ช่องกีฬาต่างประทศ",beIN Sports 6 Max
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/beIN%20Sport%20Max%206%20France/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ddy6new.newkso.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium496/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1733601777.png" group-title="ช่องกีฬาต่างประทศ",beIN Sports 7 Max
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/beIN%20Sport%20Max%207%20France/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ddy6new.newkso.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium497/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1733602058.png" group-title="ช่องกีฬาต่างประทศ",beIN Sports 8 Max
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/beIN%20Sport%20Max%208%20France/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ddy6new.newkso.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium498/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1733602083.png" group-title="ช่องกีฬาต่างประทศ",beIN Sports 9 Max
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/beIN%20Sport%20Max%209%20France/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ddy6new.newkso.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium499/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1733602113.png" group-title="ช่องกีฬาต่างประทศ",beIN Sports 10 Max
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-referrer=https://ddy6new.newkso.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://ddy6new.newkso.ru/ddy6/premium500/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664502528.png" group-title="ช่องกีฬาต่างประทศ",beIN Sports 1 Turkey
@@ -1546,8 +1559,9 @@ https://ddy6new.newkso.ru/ddy6/premium418/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium419/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?id=1gN0P4cZc8pTXd7hW2HiqiXj-s3SqmGDg" group-title="ช่องกีฬาต่างประทศ",SuperSportAction
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/supersportaction.m3u8
+#EXTVLCOPT:http-referrer=https://windnew.newkso.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium420/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?id=1vLYXlvWF9hBoXHFDK665frW_mmTrV6MJ" group-title="ช่องกีฬาต่างประทศ",SuperSportRugby
 #EXTVLCOPT:http-referrer=https://zekonew.newkso.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -1561,9 +1575,9 @@ https://zekonew.newkso.ru/zeko/premium422/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium423/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?id=1iEfFv5Mbymx-MQg5zqz5FrCF0RfNwzYI" group-title="ช่องกีฬาต่างประทศ",SuperSportMotorsport
-#EXTVLCOPT:http-referrer=https://zekonew.newkso.ru/
+#EXTVLCOPT:http-referrer=https://ddy6new.newkso.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium424/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium418/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://overseer.blackboxsys.net/images/png/ca-tsn1.png" group-title="ช่องกีฬาต่างประทศ",TSN1
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tsn1.m3u8
