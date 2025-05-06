@@ -364,7 +364,9 @@ http://watchindia.net:8880/live/83941/89339/2102.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="ช่องบันเทิงต่างประเทศ",SonyPixHD
 http://watchindia.net:8880/live/83941/89339/2101.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/usa/Syfy.png" group-title="ช่องบันเทิงต่างประเทศ",Syfy
-http://watchindia.net:8880/live/83941/89339/2127.m3u8
+#EXTVLCOPT:http-referrer=https://zekonew.newkso.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium373/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Universal_TV_2018.svg" group-title="ช่องบันเทิงต่างประเทศ",universal
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/universal.m3u8
