@@ -661,6 +661,9 @@ http://49.0.64.96:8007/Animal
 http://49.0.64.96:8007/WSCI
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240617204638FWDoc.jpg" group-title="ช่องสารคดี",FWDOC
 https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDg6Mzg6NDMgQU0maGFzaF92YWx1ZT1VaG0yclIvdkt4eUwzU0I2MkxLTEtnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-cdn4.welcomesoftware.com/assets/Smithsonian+logo.png/Zz0xZmFkYzFkNDllODIxMWVkYjQ1ZjU2NTk4OTgwZTZiYg==?width=768&height=430" group-title="ช่องสารคดี",Smithsonian Channel
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/smithsonian.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.shopify.com/s/files/1/0065/8076/4727/files/logo.png?height=628&pad_color=fff&v=1613611598&width=1200" group-title="ช่องสารคดี", Wired 2 Fish
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2016/09/14115726/planet-earth.jpg" group-title="ช่องสารคดี", planetearth
@@ -1543,9 +1546,8 @@ https://ddy6new.newkso.ru/ddy6/premium418/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium419/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?id=1gN0P4cZc8pTXd7hW2HiqiXj-s3SqmGDg" group-title="ช่องกีฬาต่างประทศ",SuperSportAction
-#EXTVLCOPT:http-referrer=https://windnew.newkso.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium420/mono.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/supersportaction.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?id=1vLYXlvWF9hBoXHFDK665frW_mmTrV6MJ" group-title="ช่องกีฬาต่างประทศ",SuperSportRugby
 #EXTVLCOPT:http-referrer=https://zekonew.newkso.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
