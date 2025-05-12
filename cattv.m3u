@@ -2140,6 +2140,9 @@ https://main.24playerhd.com/m3u8/f7c7a41552dace79d23d3cc7/f7c7a41552dace79d23d3c
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2025/04/The-Last-of-Us-Season-2-2025-300x450.jpg" group-title="The-Last-of-Us ซีซั่น 2" ,[พากย์ไทย] EP4
 #EXTVLCOPT:http-referer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/fbb814f25e45760691d593f9/fbb814f25e45760691d593f9.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2025/04/The-Last-of-Us-Season-2-2025-300x450.jpg" group-title="The-Last-of-Us ซีซั่น 2" ,[พากย์ไทย] EP5
+#EXTVLCOPT:http-referer=https://www.123-hd.com/
+https://main.24playerhd.com/m3u8/1fad37798e89b1415c90659f/1fad37798e89b1415c90659f438.m3u8
 #EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5439/video/20306/20250104161944g7Zy.jpg" group-title="The Rig Season 1 เดอะริก มฤตยูปริศนา ซีซั่น 1" ,[พากย์ไทย] EP1
 #EXTVLCOPT:http-referer=https://movie24.tv/
 https://movie.server-cdn-streaming.com/api/uploads/movie/5439/video/20306/hls/movie_3.m3u8
