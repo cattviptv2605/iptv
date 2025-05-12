@@ -665,18 +665,18 @@ http://49.0.64.96:8007/Animal
 http://49.0.64.96:8007/WSCI
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240617204638FWDoc.jpg" group-title="ช่องสารคดี",FWDOC
 https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDg6Mzg6NDMgQU0maGFzaF92YWx1ZT1VaG0yclIvdkt4eUwzU0I2MkxLTEtnPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.shopify.com/s/files/1/0065/8076/4727/files/logo.png?height=628&pad_color=fff&v=1613611598&width=1200" group-title="ช่องสารคดี", Wired2Fish
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.shopify.com/s/files/1/0065/8076/4727/files/logo.png?height=628&pad_color=fff&v=1613611598&width=1200" group-title="ช่องสารคดี",Wired2Fish
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/MLMWSCV.png" group-title="ช่องสารคดี",WildPlanet
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/planetearth.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="ช่องสารคดี", WildEarth
-https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8gfvv3
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="ช่องสารคดี", XPLORE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="ช่องสารคดี",WildEarth
+https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="ช่องสารคดี",XPLORE
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="ช่องสารคดี",Pet Collective1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="ช่องสารคดี",PetCollective1
 https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="ช่องสารคดี",PetClub TV2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="ช่องสารคดี",PetClubTV2
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 
 
