@@ -2021,6 +2021,9 @@ https://www.watchlakorn.in/egdeny/563c9ea203e586519144d8419ca89508/aGQ=/master.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/03/A-Working-Man-2025-นรกหยุดนรก-187x269.png" group-title="หนังต่างประเทศ",A-Working-Man-2025-นรกหยุดนรก [พากย์ไทย]
 #EXTVLCOPT:http-referer=https://www.24-hd.com/
 https://main.24playerhd.com/m3u8/36b174cc0a0065c3a29ea60b/36b174cc0a0065c3a29ea60b438.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/02/The-Bayou-2025-มฤตยูงาบ-187x269.png" group-title="หนังต่างประเทศ",The Bayou (2025) มฤตยูงาบ [พากย์ไทย]
+#EXTVLCOPT:http-referer=https://www.24-hd.com/
+https://main.24playerhd.com/m3u8/615f03f86d1f3dda6a238ce9/615f03f86d1f3dda6a238ce9438.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/01/Den-of-Thieves-2-Pantera-2025-187x269.png" group-title="หนังต่างประเทศ",Den-of-Thieves-2-Pantera-2025 ZOOM [พากย์ไทย]
 #EXTVLCOPT:http-referer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/2efb42cffa2e72c88f9ad574/2efb42cffa2e72c88f9ad574.m3u8
@@ -2036,6 +2039,12 @@ https://main.24playerhd.com/newplaylist/d20f7a98c6dd2189c53089a1/d20f7a98c6dd218
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/03/Cleaner-2025-ไต่ระทึกตึกนรก-1-187x269.png" group-title="หนังต่างประเทศ",Cleaner-2025-ไต่ระทึกตึกนรก [พากย์ไทย]
 #EXTVLCOPT:http-referer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/48e2c5a741110e471c386257/48e2c5a741110e471c386257.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2023/07/Mission-Impossible-7-Dead-Reckoning-Part-One-2023-187x269.jpg" group-title="หนังต่างประเทศ",Mission Impossible 7 Dead Reckoning Part One (2023) มิชชั่น อิมพอสซิ [พากย์ไทย]
+#EXTVLCOPT:http-referer=https://www.24-hd.com/
+https://main.24playerhd.com/m3u8/68e08758308558a8acc57dab/68e08758308558a8acc57dab438.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/05/The-End-We-Start-From-2023-อุ้มลูกฝ่าวิปโยค-187x269.png" group-title="หนังต่างประเทศ",The End We Start From (2023) อุ้มลูกฝ่าวิปโยค [พากย์ไทย]
+#EXTVLCOPT:http-referer=https://www.24-hd.com/
+https://main.24playerhd.com/m3u8/ef956e3756d37580351b0bdd/ef956e3756d37580351b0bdd438.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Kill-Boksoon-2023-คิลบกซุน.jpg" group-title="หนังต่างประเทศ",Kill-Boksoon-2023-คิลบกซุน [พากย์ไทย]
 #EXTVLCOPT:http-referer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/fdbfd32ca6d6f51beb2b8aab/fdbfd32ca6d6f51beb2b8aab.m3u8
@@ -2104,12 +2113,24 @@ https://movie.server-cdn-streaming.com/api/uploads/movie/2541/video/5240/hls/mov
 https://movie.server-cdn-streaming.com/api/uploads/movie/3108/video/7038/hls/movie.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/04/Isan-Nikah-2024-ผู้บ่าวนิกะห์-187x269.png" group-title="หนังไทย",Isan Nikah (2024) ผู้บ่าวนิกะห์ [พากย์ไทย]
-#EXTVLCOPT:http-referer=https://www.24-hdd.com/
-https://main.24playerhd.com/m3u8/ddc042844e0ce0f2f7f20335/ddc042844e0ce0f2f7f20335438.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/01/Art-of-the-Devil-Beginning-2025-พนอ-1-187x269.png" group-title="หนังไทย",Art of the Devil Beginning (2025) พนอ[พากย์ไทย]
 #EXTVLCOPT:http-referer=https://www.24-hdd.com/
 https://main.24playerhd.com/m3u8/27f2eea731744d8a864e5c5a/27f2eea731744d8a864e5c5a438.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/04/Isan-Nikah-2024-ผู้บ่าวนิกะห์-187x269.png" group-title="หนังไทย",Isan Nikah (2024) ผู้บ่าวนิกะห์ [พากย์ไทย]
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/m3u8/ddc042844e0ce0f2f7f20335/ddc042844e0ce0f2f7f20335438.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2024/10/ธี่หยด-2-Death-Whisperer-2-2024-187x269.jpg" group-title="หนังไทย",ธี่หยด 2 Death Whisperer 2 (2024)[พากย์ไทย]
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/m3u8/ed13e9288c02ec609666a891/ed13e9288c02ec609666a891438.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2024/04/Death-Whisperer-2023-ธี่หยด-1-187x269.jpg" group-title="หนังไทย",Death Whisperer (2023) ธี่หยด [พากย์ไทย]
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/m3u8/314ec46764d43ac7a7a825ab/314ec46764d43ac7a7a825ab438.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/01/The-Holy-Man-Comeback-2024-หลวงพี่เท่ง-Comeback-1-187x269.png" group-title="หนังไทย",The Holy Man Comeback (2024) หลวงพี่เท่ง Comeback [พากย์ไทย]
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/m3u8/b428a2ac2b6d5b701ac05db0/b428a2ac2b6d5b701ac05db0438.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2024/02/The-Undertaker-2023-สัปเหร่อ-187x269.jpg" group-title="หนังไทย",The Undertaker (2023) สัปเหร่อ [พากย์ไทย]
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/m3u8/fa0618ad16c8e18530e3646d/fa0618ad16c8e18530e3646d438.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/01/The-Last-of-Us-300x450.png" group-title="The-Last-of-Us ซีซั่น 1" ,[พากย์ไทย] EP1
