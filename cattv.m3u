@@ -2084,6 +2084,9 @@ https://movie.server-cdn-streaming.com/api/uploads/movie/5467/video/20469/hls/mo
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2023/01/Plane-2023-ดิ่งน่านฟ้า-เดือดเกาะนรก-187x269.jpg" group-title="หนังต่างประเทศ",Plane (2023) ดิ่งน่านฟ้า เดือดเกาะนรก [พากย์ไทย]
 #EXTVLCOPT:http-referer=https://www.24-hd.com/
 https://main.24playerhd.com/m3u8/b1d8a5a2dd4f1a4dd9c42b2b/b1d8a5a2dd4f1a4dd9c42b2b438.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2024/06/The-Martian-2015-เดอะ-มาร์เชียน-กู้ตาย-140-ล้านไมล์-1-187x269.jpg" group-title="หนังต่างประเทศ",The Martian (2015) เดอะ มาร์เชียน กู้ตาย 140 ล้านไมล์ [พากย์ไทย]
+#EXTVLCOPT:http-referer=https://www.24-hd.com/
+https://main.24playerhd.com/m3u8/cdb2f0cdf34121330d5c6bf7/cdb2f0cdf34121330d5c6bf7168.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://movie24.tv/wp-content/uploads/2024/09/20240907150546n2vu.jpg" group-title="หนังต่างประเทศ",Rebel Ridge เรเบลริดจ์: ผ่าเมืองอยุติธรรม [พากย์ไทย]
 #EXTVLCOPT:http-referer=https://movie24.tv/
 https://movie.server-cdn-streaming.com/api/uploads/movie/5304/video/19488/hls/movie.m3u8
