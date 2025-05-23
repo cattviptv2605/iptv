@@ -2018,9 +2018,9 @@ https://www.watchlakorn.in/egdeny/563c9ea203e586519144d8419ca89508/aGQ=/master.m
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/03/A-Working-Man-2025-นรกหยุดนรก-187x269.png" group-title="หนังต่างประเทศ",A-Working-Man-2025-นรกหยุดนรก ZOOM [พากย์ไทย]
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/03/A-Working-Man-2025-นรกหยุดนรก-187x269.png" group-title="หนังต่างประเทศ",A-Working-Man-2025-นรกหยุดนรก [พากย์ไทย]
 #EXTVLCOPT:http-referer=https://www.24-hd.com/
-https://main.24playerhd.com/newplaylist/6074028f1b10df2ec699442a/6074028f1b10df2ec699442a.m3u8
+https://main.24playerhd.com/m3u8/36b174cc0a0065c3a29ea60b/36b174cc0a0065c3a29ea60b438.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/01/Den-of-Thieves-2-Pantera-2025-187x269.png" group-title="หนังต่างประเทศ",Den-of-Thieves-2-Pantera-2025 ZOOM [พากย์ไทย]
 #EXTVLCOPT:http-referer=https://www.24-hd.com/
 https://main.24playerhd.com/newplaylist/2efb42cffa2e72c88f9ad574/2efb42cffa2e72c88f9ad574.m3u8
@@ -2045,6 +2045,9 @@ https://movie.server-cdn-streaming.com/api/uploads/movie/5422/video/20174/hls/mo
 #EXTINF:-1 tvg-id="" tvg-logo="https://movie24.tv/wp-content/uploads/2025/01/20250118154757cuYZ.jpg" group-title="หนังต่างประเทศ",Back in Action สายลับกลับมาลุย [พากย์ไทย]
 #EXTVLCOPT:http-referer=https://movie24.tv/
 https://movie.server-cdn-streaming.com/api/uploads/movie/5467/video/20469/hls/movie.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2023/01/Plane-2023-ดิ่งน่านฟ้า-เดือดเกาะนรก-187x269.jpg" group-title="หนังต่างประเทศ",Plane (2023) ดิ่งน่านฟ้า เดือดเกาะนรก [พากย์ไทย]
+#EXTVLCOPT:http-referer=https://www.24-hd.com/
+https://main.24playerhd.com/m3u8/b1d8a5a2dd4f1a4dd9c42b2b/b1d8a5a2dd4f1a4dd9c42b2b438.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://movie24.tv/wp-content/uploads/2024/09/20240907150546n2vu.jpg" group-title="หนังต่างประเทศ",Rebel Ridge เรเบลริดจ์: ผ่าเมืองอยุติธรรม [พากย์ไทย]
 #EXTVLCOPT:http-referer=https://movie24.tv/
 https://movie.server-cdn-streaming.com/api/uploads/movie/5304/video/19488/hls/movie.m3u8
@@ -2099,6 +2102,14 @@ https://movie.server-cdn-streaming.com/api/uploads/movie/2541/video/5240/hls/mov
 #EXTINF:-1 tvg-id="" tvg-logo="https://movie24.tv/wp-content/uploads/2024/02/20220723212417NE7D.jpg" group-title="หนังต่างประเทศ",Tears of the Sun ฝ่ายุทธการสุริยะทมิฬ [พากย์ไทย]
 #EXTVLCOPT:http-referer=https://movie24.tv/
 https://movie.server-cdn-streaming.com/api/uploads/movie/3108/video/7038/hls/movie.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/04/Isan-Nikah-2024-ผู้บ่าวนิกะห์-187x269.png" group-title="หนังไทย",Isan Nikah (2024) ผู้บ่าวนิกะห์ [พากย์ไทย]
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/m3u8/ddc042844e0ce0f2f7f20335/ddc042844e0ce0f2f7f20335438.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/01/Art-of-the-Devil-Beginning-2025-พนอ-1-187x269.png" group-title="หนังไทย",Art of the Devil Beginning (2025) พนอ[พากย์ไทย]
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/m3u8/27f2eea731744d8a864e5c5a/27f2eea731744d8a864e5c5a438.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/01/The-Last-of-Us-300x450.png" group-title="The-Last-of-Us ซีซั่น 1" ,[พากย์ไทย] EP1
