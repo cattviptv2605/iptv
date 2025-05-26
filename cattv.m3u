@@ -210,12 +210,6 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0166/DASH
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง",ROCKAction
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/rockaction.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="ช่องบันเทิง",Axn
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueaxn.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="ช่องบันเทิง",Axn
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/axn.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง",Warnertv
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -226,54 +220,33 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/X105/DASH/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/warnertv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/400px-Paramount_Network.svg.png" group-title="ช่องบันเทิง",Paramount
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="ช่องบันเทิง",Axn
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueaxn.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueTHAIFILM
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truethaifilm.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueTHAIFILM
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/thaifilm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM1
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truefilm1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM1
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/film1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM2
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truefilm2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM2
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/film2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueMOVIEHITS
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truemoviehits.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueMOVIEHITS
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/moviehit.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueFILMASIA
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truefilmasia.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueFILMASIA
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/filmasia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueSeries
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueseries.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueSeries
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/series.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="ช่องบันเทิง",trueASIANMORE
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueasiamove.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="ช่องบันเทิง",trueASIANMORE
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/trueasianmore.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="ช่องบันเทิง",CCM
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueccm.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="ช่องบันเทิง",CCM
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/ccm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png" group-title="ช่องบันเทิง",AsianHits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
@@ -317,9 +290,6 @@ https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png" group-title="ช่องบันเทิง",Universal
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/H-Channel
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/bubble-town/images/2/27/IPlay_Logo.jpg/revision/latest?cb=20180727201154" group-title="ช่องบันเทิง",iplaymedia
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/iplaymedia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg" group-title="ช่องบันเทิง",การ์ตูน
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://49.0.64.96:8007/Cartoonumi
@@ -527,9 +497,6 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0180/DASH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี",DiscoveryAsia
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/discoverasia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่องสารคดี",History
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truehistroy.m3u8
@@ -549,21 +516,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี",trueEXPLOREWILD
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueexplorewild.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี",trueEXPLOREWILD
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truewild.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORELIFE
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueexplorelife.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORELIFE
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truelife.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORESCI
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueexploresci.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORESCI
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truesci.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0" group-title="ช่องสารคดี",BBCearth
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="ช่องสารคดี",BBCFood
@@ -571,9 +529,6 @@ https://jmp2.uk/plu-5fb5844bf5514d0007945bda.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg" group-title="ช่องสารคดี",BBCLifestyle
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truebbclifestyle.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg" group-title="ช่องสารคดี",BBCLifestyle
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/bbclifestyle.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1716366217.png" group-title="ช่องสารคดี",Natgeographic
 http://185.189.225.150:85/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1716363369.png" group-title="ช่องสารคดี",Natgeowild
@@ -582,9 +537,6 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/natgeowild.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="ช่องสารคดี",Crime-Investigation
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/crime-Investigation.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="ช่องสารคดี",Crime-Investigation
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/crime.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Dgzgf8yL/png-clipart-discovery-science-discovery-channel-investigation-discovery-logo-science-television-text.png" group-title="ช่องสารคดี",Discovery science
 http://178.162.225.182:2082/live/Tourobox1-y85tOTzw47/Att3piLtZf/72.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.multichannelsasia.com/wp-content/uploads/2015/11/OC_Logo2017_Primary-e1492590279375.png" group-title="ช่องสารคดี",OutDoor
@@ -608,9 +560,6 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/dmax.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" group-title="ช่องสารคดี", trueX-ZYTE
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truexzyte.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" group-title="ช่องสารคดี", trueX-ZYTE
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/xzyte.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="ช่องสารคดี",Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
@@ -2114,6 +2063,9 @@ https://movie.server-cdn-streaming.com/api/uploads/movie/4872/video/16593/hls/mo
 #EXTINF:-1 tvg-id="" tvg-logo="https://movie24.tv/wp-content/uploads/2024/02/20230515105746ZUS9.jpg" group-title="หนังต่างประเทศ",The Mother คุณแม่มือสังหาร [พากย์ไทย]
 #EXTVLCOPT:http-referer=https://movie24.tv/
 https://movie.server-cdn-streaming.com/api/uploads/movie/4233/video/11252/hls/movie.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2023/10/Unstoppable-2010-ด่วนวินาศหยุดไม่อยู่-187x269.jpg" group-title="หนังต่างประเทศ",Unstoppable (2010) ด่วนวินาศหยุดไม่อยู่ [พากย์ไทย]
+#EXTVLCOPT:http-referer=https://movie24.tv/
+https://main.24playerhd.com/newplaylist/4d6d49f9207fcc822cde55c6/4d6d49f9207fcc822cde55c6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://movie24.tv/wp-content/uploads/2024/02/20220601131114vSpl.jpg" group-title="หนังต่างประเทศ",The Day After Tomorrow (2004) เดอะ เดย์ อ๊าฟเตอร์ ทูมอร์โรว์ วิกฤติวันสิ้นโลก (2004) [พากย์ไทย]
 #EXTVLCOPT:http-referer=https://movie24.tv/
 https://movie.server-cdn-streaming.com/api/uploads/movie/2517/video/5216/hls/movie.m3u8
@@ -2338,4 +2290,71 @@ https://main.24playerhd.com/newplaylist/a2310c4dff5866318d50a477/a2310c4dff58663
 #EXTVLCOPT:http-referer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/89c1456ca40492dc7cc242da/89c1456ca40492dc7cc242da.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2024/06/The-Bourne-Identity-2002-ล่าจารชน-ยอดคนอันตราย-1-187x269.jpg" group-title="The Bourne 1-5 ",The Bourne Identity (2002) ล่าจารชน ยอดคนอันตราย1  [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/0249d3529e64f060d16b4e1d/0249d3529e64f060d16b4e1d.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2024/06/The-Bourne-Supremacy-2004-สุดยอดเกมล่าจารชน-1-187x269.jpg" group-title="The Bourne 1-5 ",The-Bourne-Supremacy-2004-สุดยอดเกมล่าจารชน2  [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/4fd2961e9ace72e1ccd15f2e/4fd2961e9ace72e1ccd15f2e.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2024/06/The-Bourne-Ultimatum-2007-ปิดเกมล่าจารชน-คนอันตราย-1-187x269.jpg" group-title="The Bourne 1-5 ",The-Bourne-Ultimatum-2007-ปิดเกมล่าจารชน-คนอันตราย3  [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/7ad404be97d38f4881000b36/7ad404be97d38f4881000b36.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2024/06/The-Bourne-Legacy-2012-พลิกแผนล่ายอดจารชน-1-187x269.jpg" group-title="The Bourne 1-5 ",The-Bourne-Legacy-2012-พลิกแผนล่ายอดจารชน4  [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/7f65f5583810b0fd3f8af3e4/7f65f5583810b0fd3f8af3e4.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2024/06/Jason-Bourne-2016-เจสัน-บอร์น-ยอดจารชนคนอันตราย-1-187x269.jpg" group-title="The Bourne 1-5 ",Jason-Bourne-2016-เจสัน-บอร์น-ยอดจารชนคนอันตราย5  [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/5952a7231aa7f47b876727a8/5952a7231aa7f47b876727a8.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2023/07/Mission-Impossible-1996-ผ่าปฏิบัติการสะท้านโลก-187x269.jpg" group-title="Mission Impossible 1-8 ",Mission-Impossible-1996-ผ่าปฏิบัติการสะท้านโลก1 [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/09360159f953c7145964c294/09360159f953c7145964c294.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2023/07/Mission-Impossible-2-2000-มิชชั่น-อิมพอสซิเบิ้ล-ฝ่าปฏิบัติการสะท้านโลก-2-187x269.jpg" group-title="Mission Impossible 1-8 ",Mission-Impossible-2-2000-มิชชั่น-อิมพอสซิเบิ้ล-ฝ่าปฏิบัติการสะท้านโลก2 [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/d7ac9c4acaa6faa85a5703bd/d7ac9c4acaa6faa85a5703bd.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2023/07/Mission-Impossible-3-2006-มิชชั่น-อิมพอสซิเบิ้ล-ฝ่าปฏิบัติการสะท้านโลก-3-187x269.jpg" group-title="Mission Impossible 1-8 ",Mission-Impossible-3-2006-มิชชั่น-อิมพอสซิเบิ้ล-ฝ่าปฏิบัติการสะท้านโลก3 [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/14317f66fc4cfed4a94a009d/14317f66fc4cfed4a94a009d.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2023/07/Mission-Impossible-4-Ghost-Protocol-2011-มิชชั่น-อิมพอสซิเบิ้ล-ปฏิบัติการไร้เงา-187x269.jpg" group-title="Mission Impossible 1-8 ",Mission-Impossible-4-Ghost-Protocol-2011-มิชชั่น-อิมพอสซิเบิ้ล-ปฏิบัติการไร้เงา4 [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/277d17da8f03d30facc17460/277d17da8f03d30facc17460.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2023/07/Mission-Impossible-5-Rogue-Nation-2015-มิชชั่น-อิมพอสซิเบิ้ล-5-ปฏิบัติการรัฐอำพราง-187x269.jpg" group-title="Mission Impossible 1-8 ",Mission-Impossible-5-Rogue-Nation-2015-มิชชั่น-อิมพอสซิเบิ้ล-5-ปฏิบัติการรัฐอำพราง5 [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/f87d39ff1161bd79df93ed4c/f87d39ff1161bd79df93ed4c.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2023/07/Mission-Impossible-6-Fallout-2018-มิชชั่น-อิมพอสซิเบิ้ล-ฟอลล์เอาท์-187x269.jpg" group-title="Mission Impossible 1-8 ",Mission-Impossible-6-Fallout-2018-มิชชั่น-อิมพอสซิเบิ้ล-ฟอลล์เอาท์6 [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/ea885187ee078301ef3ecba6/ea885187ee078301ef3ecba6.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2023/07/Mission-Impossible-7-Dead-Reckoning-Part-One-2023-187x269.jpg" group-title="Mission Impossible 1-8 ",Mission-Impossible-7-Dead-Reckoning-Part-One-2023(7) [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/68e08758308558a8acc57dab/68e08758308558a8acc57dab.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/05/Mission-Impossible-8-The-Final-Reckoning-2025-มิชชั่น-อิมพอสซิเบิ้ล-ปิดปฏิบัติการล่าพิกัดมรณะ-187x269.png" group-title="Mission Impossible 1-8 ",Mission-Impossible-8-The-Final-Reckoning-2025-มิชชั่น-อิมพอสซิเบิ้ล-ปิดปฏิบัติการล่าพิกัดมรณะ8 [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/6e883e8bccc04f558be1c5c7/6e883e8bccc04f558be1c5c7.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2024/01/Olympus-Has-Fallen-2013-ฝ่าวิกฤติ-วินาศกรรมทำเนียบขาว-187x269.jpg" group-title="Has-Fallen",Olympus-Has-Fallen-2013-ฝ่าวิกฤติ-วินาศกรรมทำเนียบขาว [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/a414fb77d44ee8695603b1c6/a414fb77d44ee8695603b1c6.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2024/01/London-Has-Fallen-2016-ผ่ายุทธการถล่มลอนดอน-187x269.jpg" group-title="Has-Fallen",London Has Fallen (2016) ผ่ายุทธการถล่มลอนดอน [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/8bb5f0948f38a6d13759ee5e/8bb5f0948f38a6d13759ee5e.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2024/01/Angel-Has-Fallen-2019-ผ่ายุทธการ-ดับแผนอหังการ์-187x269.jpg" group-title="Has-Fallen",Angel Has Fallen (2019) ผ่ายุทธการ ดับแผนอหังการ์ [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/49bf313cb8b55a647f05fef9/49bf313cb8b55a647f05fef9.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2022/08/The-Fast-and-the-Furious-1-2001-เร็วแรงทะลุนรก-1-187x269.jpg" group-title="The-Fast-and-the-Furious",The-Fast-and-the-Furious-1-2001-เร็วแรงทะลุนรก [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/48bd10f287c7c88b419b84b8/48bd10f287c7c88b419b84b8.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2022/08/2-Fast-2-Furious-2003-เร็วคูณ-2-ดับเบิ้ลแรงท้านรก-187x269.jpg" group-title="The-Fast-and-the-Furious",2-Fast-2-Furious-2003-เร็วคูณ-2-ดับเบิ้ลแรงท้านรก [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/87f09250cd50def42ab2ac83/87f09250cd50def42ab2ac83.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2022/08/The-Fast-and-the-Furious-Tokyo-Drift-3-2006-เร็วแรงทะลุนรก-ซิ่งแหกพิกัดโตเกียว-3-187x269.jpg" group-title="The-Fast-and-the-Furious",The-Fast-and-the-Furious-Tokyo-Drift-3-2006-เร็วแรงทะลุนรก-ซิ่งแหกพิกัดโตเกียว [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/88319a12b3ab3c1b9da87267/88319a12b3ab3c1b9da87267.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hdd.com/wp-content/uploads/2022/08/Fast-And-Furious-4-2009-เร็วแรงทะลุนรก-ยกทีมซิ่ง-แรงทะลุไมล์-4-187x269.jpg" group-title="The-Fast-and-the-Furious",Fast-And-Furious-4-2009-เร็วแรงทะลุนรก-ยกทีมซิ่ง-แรงทะลุไมล์ [พากย์ไทย] 
+#EXTVLCOPT:http-referer=https://www.24-hdd.com/
+https://main.24playerhd.com/newplaylist/994720fbbbaf904467ad5ba6/994720fbbbaf904467ad5ba6.m3u8
 
