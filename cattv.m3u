@@ -297,30 +297,36 @@ http://49.0.64.96:8007/Cartoonumi
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://49.0.64.96:8007/SERIES
 #EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies2
-#EXTVLCOPT:http-user-agent=adminplayidtv
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://45.144.165.187:8080/playidtv/12345/17788
 #EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies3
-#EXTVLCOPT:http-user-agent=adminplayidtv
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://45.144.165.187:8080/playidtv/12345/15675
 #EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies4
-#EXTVLCOPT:http-user-agent=adminplayidtv
-http://45.144.165.187:8080/playidtv/12345/17238
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
+#http://45.144.165.187:8080/playidtv/12345/37
 #EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies5
-#EXTVLCOPT:http-user-agent=adminplayidtv
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://45.144.165.187:8080/playidtv/12345/18833
 #EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies6
-#EXTVLCOPT:http-user-agent=adminplayidtv
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://45.144.165.187:8080/playidtv/12345/9198
 #EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies7
-#EXTVLCOPT:http-user-agent=adminplayidtv
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://45.144.165.187:8080/playidtv/12345/15672
 #EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies8
-#EXTVLCOPT:http-user-agent=adminplayidtv
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://45.144.165.187:8080/playidtv/12345/9199
 #EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies9
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
+http://49.0.64.96:8007/PING
+#EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies10
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
+http://45.144.165.187:8080/playidtv/12345/22885
+#EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies11
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/movies1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies10
+#EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies12
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/movies2.m3u8
 
