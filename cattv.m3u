@@ -304,7 +304,7 @@ http://45.144.165.187:8080/playidtv/12345/17788
 http://45.144.165.187:8080/playidtv/12345/15675
 #EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies4
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
-#http://45.144.165.187:8080/playidtv/12345/37
+http://45.144.165.187:8080/playidtv/12345/37
 #EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies5
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://45.144.165.187:8080/playidtv/12345/18833
