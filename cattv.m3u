@@ -289,7 +289,7 @@ https://live.thaitvstream.com/play/chiangrai/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/medianews/medianews.png" group-title="ช่องบันเทิง",Medianews
 https://live1.thaitvstream.com/play/medianews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.i-pic.info/i/6CRS654262.png" group-title="ช่องบันเทิง",MOUNCHON TV
-https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+http://moo7hd.myddns.me:9192/stream/boxoffice/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHVU8Io3jYa9dX3vXUapj5t6JFdDmnz83i6g&usqp=CAU" group-title="ช่องบันเทิง",Channel8thailand
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png" group-title="ช่องบันเทิง",Universal
