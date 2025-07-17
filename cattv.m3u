@@ -286,6 +286,8 @@ https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 https://live2.thaitvstream.com/play/gochannel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png" group-title="ช่องบันเทิง",Chiangrai
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.i-pic.info/i/6CRS654262.png" group-title="ช่องบันเทิง",MounchonTv
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/medianews/medianews.png" group-title="ช่องบันเทิง",Medianews
 https://live1.thaitvstream.com/play/medianews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHVU8Io3jYa9dX3vXUapj5t6JFdDmnz83i6g&usqp=CAU" group-title="ช่องบันเทิง",Channel8thailand
