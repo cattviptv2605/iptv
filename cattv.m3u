@@ -226,9 +226,6 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hits-movies/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง",Warnertv
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/warnertv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง",Warnertv
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/warnertv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/400px-Paramount_Network.svg.png" group-title="ช่องบันเทิง",Paramount
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/paramount-network/playlist.m3u8
@@ -236,8 +233,8 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/paramount-network/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/axn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueTHAIFILM
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/truethaifilm/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truethaifilm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM1
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/truefilm1/playlist.m3u8
@@ -330,10 +327,6 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/movies1.m3u8
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/movies2.m3u8
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="ช่องสารคดี",Discovery
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/discovery/playlist.m3u8
@@ -351,9 +344,6 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่องสารคดี",History
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/history/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่องสารคดี",History
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/histroy.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="ช่องสารคดี",Animal Planet
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/animal-planet/playlist.m3u8
@@ -383,11 +373,6 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/natgeowild.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="ช่องสารคดี",Crime-Investigation
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/crime-investigation/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="ช่องสารคดี",Crime-Investigation
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/crime-Investigation.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Dgzgf8yL/png-clipart-discovery-science-discovery-channel-investigation-discovery-logo-science-television-text.png" group-title="ช่องสารคดี",Discovery science
-http://178.162.225.182:2082/live/Tourobox1-y85tOTzw47/Att3piLtZf/72.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.multichannelsasia.com/wp-content/uploads/2015/11/OC_Logo2017_Primary-e1492590279375.png" group-title="ช่องสารคดี",OutDoor
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/outdoor.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1720781589.png" group-title="ช่องสารคดี",LifeTime
