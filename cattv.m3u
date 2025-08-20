@@ -1,9 +1,6 @@
 #EXTM3U url=https://raw.githubusercontent.com/cattviptv2605/iptv/main/cattv.m3u
 
 
-###AIS KEY####
-playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=92380f3e9d7f481cae9f160426cbfe2d&chunkHttps=true&tmid=B0015&tpbk=GtM5mhp3fVY7Of06&rrt=1755565334&tmod=rfk&rsid=dd360246-ce85-4b79-8ad5-4bfe7f41b33d&tuid=596095e825&cdn=redfox-https&tdid=528e59069574709f71346c8c5aac376b&origin=anevia&tfa=f0-fc&tttl=1755651734
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png" group-title="ช่องทีวีดิจิตอล",NBTHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
@@ -507,17 +504,9 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/tlc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ช่องสารคดี", Samrujlok
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/samrujlok/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ช่องสารคดี", Samrujlok
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=92380f3e9d7f481cae9f160426cbfe2d&chunkHttps=true&tmid=B0015&tpbk=GtM5mhp3fVY7Of06&rrt=1755565334&tmod=rfk&rsid=dd360246-ce85-4b79-8ad5-4bfe7f41b33d&tuid=596095e825&cdn=redfox-https&tdid=528e59069574709f71346c8c5aac376b&origin=anevia&tfa=f0-fc&tttl=1755651734
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="ช่องสารคดี", MySCI
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/mysci/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="ช่องสารคดี", MySCI
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0152/DASH/V0152.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=92380f3e9d7f481cae9f160426cbfe2d&chunkHttps=true&tmid=B0015&tpbk=GtM5mhp3fVY7Of06&rrt=1755565334&tmod=rfk&rsid=dd360246-ce85-4b79-8ad5-4bfe7f41b33d&tuid=596095e825&cdn=redfox-https&tdid=528e59069574709f71346c8c5aac376b&origin=anevia&tfa=f0-fc&tttl=1755651734
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="ช่องสารคดี", Animal Show
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/animalshow/playlist.m3u8
@@ -533,10 +522,6 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/thainess.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="ช่องสารคดี", KhongDeeThailand
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/khongdee.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="ช่องสารคดี", KhongDeeThailand
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0154/DASH/V0154.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=92380f3e9d7f481cae9f160426cbfe2d&chunkHttps=true&tmid=B0015&tpbk=GtM5mhp3fVY7Of06&rrt=1755565334&tmod=rfk&rsid=dd360246-ce85-4b79-8ad5-4bfe7f41b33d&tuid=596095e825&cdn=redfox-https&tdid=528e59069574709f71346c8c5aac376b&origin=anevia&tfa=f0-fc&tttl=1755651734
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png" group-title="ช่องสารคดี", AMAZING
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://49.0.64.96:8007/AMAZING
