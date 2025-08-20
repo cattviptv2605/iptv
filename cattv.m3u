@@ -271,8 +271,7 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/warnertv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/warnertv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/400px-Paramount_Network.svg.png" group-title="ช่องบันเทิง",Paramount Network
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/paramount-network/playlist.m3u8
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="ช่องบันเทิง",Axn
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/axn/playlist.m3u8
@@ -354,6 +353,12 @@ https://cdn1.googlecdn.live/ballsod24hrs/mangorn/playlist.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/tvbclassichd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7c07f020-2515-11ee-ac34-39c66cab230f_webp_original.webp" group-title="ช่องบันเทิง",Cool Channel
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/lidoo.png"group-title="ช่องบันเทิง",ลิโด้ Channel
+https://lb1-live-mv.v2h-cdn.com/live_vod/lido.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/rama.png"group-title="ช่องบันเทิง",สยาม Channel
+https://lb1-live-mv.v2h-cdn.com/live_vod/siam.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/sakara.png"group-title="ช่องบันเทิง",สกาล่า Channel
+https://lb1-live-mv.v2h-cdn.com/live_vod/scala.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg" group-title="ช่องบันเทิง",FWMOV
 https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDg6Mzg6NDMgQU0maGFzaF92YWx1ZT1VaG0yclIvdkt4eUwzU0I2MkxLTEtnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg" group-title="ช่องบันเทิง",FWSOV
@@ -372,6 +377,8 @@ https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 https://live1.thaitvstream.com/play/medianews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHVU8Io3jYa9dX3vXUapj5t6JFdDmnz83i6g&usqp=CAU" group-title="ช่องบันเทิง",Channel8thailand
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/zeenung.png" group-title="ช่องบันเทิง",Zee Nung
+https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgrSFPucRPMrqlexT1hIsliFyD3ET-oUADUw&s" group-title="ช่องบันเทิง",Thailand Box Office
 http://moo7hd.myddns.me:9192/stream/boxoffice/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png" group-title="ช่องบันเทิง",Universal
