@@ -117,29 +117,29 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/mono-29-music-station/playlist
 #KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="ช่องทีวีดิจิตอล",MCOTHD
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/mcothd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ช่องทีวีดิจิตอล",ONE31
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ช่องทีวีดิจิตอล",ONE31
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/one31/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="ช่องทีวีดิจิตอล",ThairathTVHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="ช่องทีวีดิจิตอล",ThairathTVHD
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/thairathtv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO3HD.PNG" group-title="ช่องทีวีดิจิตอล",CH3HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO3HD.PNG" group-title="ช่องทีวีดิจิตอล",CH3HD
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ch3hd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="ช่องทีวีดิจิตอล",AmarinTVHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
@@ -151,15 +151,15 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/amarintv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live-cdn-hwc.ch7.com
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0018.png" group-title="ช่องทีวีดิจิตอล",CH7HD
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ch7hd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล",PPTVHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล",PPTVHD
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/pptv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG" group-title="ช่องทีวีดิจิตอล",TopNewsHD
 http://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="ช่องทีวีดิจิตอล",News1
