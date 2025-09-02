@@ -180,18 +180,12 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunk
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง", HBOHD
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง", HBOHD
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง", HBOHits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง", HBOHits
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hbo-hits/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง", HBOHits
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/hbohits.m3u8
@@ -200,18 +194,12 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/hbohits.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ช่องบันเทิง", HBOSignature
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hbo-signature/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ช่องบันเทิง", HBOSignature
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/hbosignature.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="ช่องบันเทิง", HBOFamily
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="ช่องบันเทิง", HBOFamily
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hbo-family/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="ช่องบันเทิง", HBOFamily
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/hbofamily.m3u8
@@ -220,42 +208,24 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/hbofamily.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="ช่องบันเทิง",Cinemax
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/cinemax/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="ช่องบันเทิง",Cinemax
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/cinemax.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง",Rock-Entertainment
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/rock-entertainment/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง",Rock-Entertainment
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/rockentertainmentred.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง",ROCKAction
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/rock-action/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง",ROCKAction
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/rockaction.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="ช่องบันเทิง",Hits
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hits/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="ช่องบันเทิง",Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
 https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png" group-title="ช่องบันเทิง",HitsMovie
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hits-movies/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png" group-title="ช่องบันเทิง",HitsMovie
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1733772007.png" group-title="ช่องบันเทิง",HITS NOW
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hitsnow/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="ช่องบันเทิง",Action Hollywood Movies
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/actionhollywoodmovies.m3u8
@@ -321,33 +291,12 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueseries.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la4.hellotherepadawan.org:9314/v5/AUp5pFLfe_J6C-wWBLG9yQ/1756776008/a523850b6e0c201af21ac0a0393c5eeb/HTCnzeTp8gLYFtN24e6LCA/1756786688/live/vx-origin/hd-asianmore_480/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="ช่องบันเทิง",CCM
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/ccm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="ช่องบันเทิง",CCM
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueccm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png" group-title="ช่องบันเทิง",AsianHits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png" group-title="ช่องบันเทิง",AsianHits
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/asiahits/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1741273908.png" group-title="ช่องบันเทิง",Hunan TV HD
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hunan-tv-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1719897483.png" group-title="ช่องบันเทิง", KBS World HD
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/kbsworld/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1706405008.png" group-title="ช่องบันเทิง", iQIYI
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/iqiyi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1703833429.png" group-title="ช่องบันเทิง", tvN | Indonesia
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/tvn-indonesia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1714100840.png" group-title="ช่องบันเทิง", tvN MOVIES
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/tvn-movie/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="ช่องบันเทิง",Dragon
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/mangorn/playlist.m3u8
@@ -420,14 +369,8 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/movies2.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="ช่องสารคดี",Discovery
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/discovery/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="ช่องสารคดี",Discovery
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/discovery.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี",DiscoveryAsia
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/discovery-asia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี",DiscoveryAsia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -441,9 +384,6 @@ https://e102.hellotherepadawan.org/v5/-tfolfAZGDNF-iYscVkSQQ/1756776445/a523850b
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truehistroy.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="ช่องสารคดี",Animal Planet
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/animal-planet/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="ช่องสารคดี",Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
@@ -456,17 +396,11 @@ https://e113.hellotherepadawan.org/v5/4ERgFNzLugJUuyaBYiXE9Q/1756776501/c9f3cb72
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueexplorelife/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORESCI
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueexploresci/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORESCI
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueexploresci.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0" group-title="ช่องสารคดี",BBCearth
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/bbc-earth/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg" group-title="ช่องสารคดี",BBCLifestyle
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/bbc-lifestyle/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg" group-title="ช่องสารคดี",BBCLifestyle
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truebbclifestyle.m3u8
@@ -506,14 +440,8 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truexzyte.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="ช่องสารคดี", afn
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/afn/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="ช่องสารคดี", afn
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/asianfoodchannel.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png" group-title="ช่องสารคดี", TLC
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/tlc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png" group-title="ช่องสารคดี", TLC
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/tlc.m3u8
