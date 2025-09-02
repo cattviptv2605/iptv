@@ -312,9 +312,9 @@ https://lb1-live-mv.v2h-cdn.com/live_vod/siam.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/sakara.png"group-title="ช่องบันเทิง",สกาล่า Channel
 https://lb1-live-mv.v2h-cdn.com/live_vod/scala.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg" group-title="ช่องบันเทิง",FWMOV
-https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjUgNDowMzoxMCBBTSZoYXNoX3ZhbHVlPVg0M21uTWhXc0pmVExRZ1NKWW96bVE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8?nimblesessionid=187608355&wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjUgODowMDoyNSBBTSZoYXNoX3ZhbHVlPTRVNkxaN0h1Ri9yc3dyd1Bzajh1NGc9PSZ2YWxpZG1pbnV0ZXM9Mg=
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg" group-title="ช่องบันเทิง",FWSOV
-https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjUgNDowMzo1MyBBTSZoYXNoX3ZhbHVlPURkU2ljZktwQXlOVXJGd3NhN2xRT2c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjUgNDowMzo1MyBBTSZoYXNoX3ZhbHVlPURkU2ljZktwQXlOVXJGd3NhN2xRT2c9PSZ2YWxpZG1pbnV0ZXM9Mg=
 #EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png" group-title="ช่องบันเทิง",Thainews
 https://live.thaitvstream.com/play/thainews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png" group-title="ช่องบันเทิง",Siamnewstv
