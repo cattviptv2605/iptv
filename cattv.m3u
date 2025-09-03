@@ -394,7 +394,7 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/bbcearth.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/bbclifestyle.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1716366217.png" group-title="ช่องสารคดี",Natgeographic
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=444108&extension=ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=444109&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1716363369.png" group-title="ช่องสารคดี",Natgeowild
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/natgeowild.m3u8
