@@ -1220,21 +1220,13 @@ https://cdn1.googlecdn.live/ballsod24hrs/eurosport1es/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/eurosport2es/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664501652.png" group-title="ช่องกีฬาต่างประทศ",ESPN1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/foxsports1nl/chunks.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133967&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664501662.png" group-title="ช่องกีฬาต่างประทศ",ESPN2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/foxsports2nl/chunks.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133964&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664501676.png" group-title="ช่องกีฬาต่างประทศ",ESPN3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/foxsports3nl/chunks.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133966&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664501687.png" group-title="ช่องกีฬาต่างประทศ",ESPN4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-https://cdn2.aws-live-streaming.com/lsmscore/foxsports4nl/chunks.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133971&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664126262.png" group-title="ช่องกีฬาต่างประทศ",ElevenSports1 Poland
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/elevensports1pl/playlist.m3u8
@@ -1255,9 +1247,8 @@ https://e114.hellotherepadawan.org/v5/Sxey7dWyn-Io0QyMzpacGQ/1756708113/eb79b229
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e112.hellotherepadawan.org/v5/9u5YgWO4E1kRUoEubReuSA/1756708139/0c97fa64d36e19348bb46d25cd9d737e/ok6cykw405vAxN7M31CPEQ/1756718819/live/lx-origin/us-foxsports2_720/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1725050242.png" group-title="ช่องกีฬาต่างประทศ",HUB Sports 2
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hubsports2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/LaLigaTV_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/250?cb=20230704125929" group-title="ช่องกีฬาต่างประทศ",Movistar LaLiga
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=214603&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1723923355.png" group-title="ช่องกีฬาต่างประทศ",L1Max
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/l1max/playlist.m3u8
@@ -1513,20 +1504,15 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/tycsports/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/tv4fotboll/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://overseer.blackboxsys.net/images/png/ca-tsn1.png" group-title="ช่องกีฬาต่างประทศ",TSN1
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tsn1.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134280&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://overseer.blackboxsys.net/images/png/ca-tsn2.png" group-title="ช่องกีฬาต่างประทศ",TSN2
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tsn2.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134281&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://overseer.blackboxsys.net/images/png/ca-tsn3.png" group-title="ช่องกีฬาต่างประทศ",TSN3
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tsn3.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134282&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://overseer.blackboxsys.net/images/png/ca-tsn4.png" group-title="ช่องกีฬาต่างประทศ",TSN4
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tsn4.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134283&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://overseer.blackboxsys.net/images/png/ca-tsn5.png" group-title="ช่องกีฬาต่างประทศ",TSN5
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tsn5.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134284&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-btsport1hd.png" group-title="ช่องกีฬาต่างประทศ",TNTSPORT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
