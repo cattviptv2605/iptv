@@ -1167,9 +1167,22 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/beinmax2tr/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/canal11pt/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1663979533.png" group-title="ช่องกีฬาต่างประทศ",Canal 11 Protugal
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/canal11pt/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/pl-canalsport1.png" group-title="ช่องกีฬาต่างประทศ",Canalsport1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e108.hellotherepadawan.org/v5/ZAPQAIPGss_YZSBdAUGEbg/1756887404/20f9f60269f72fd0dba5fd61cbfd8e69/FB5RlZT_HlREKwYS4C-cow/1756898084/live/vx-origin/pl-canalsport1_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/pl-canalsport2.png" group-title="ช่องกีฬาต่างประทศ",Canalsport2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://s3a-c.hellotherepadawan.org:9309/v5/u5JrCdGdaeUG6myJIw24DQ/1756887433/20f9f60269f72fd0dba5fd61cbfd8e69/2HKB8Ofe2Yf2C2_u62726A/1756898113/live/vx-origin/pl-canalsport2_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/pl-canalsport3.png" group-title="ช่องกีฬาต่างประทศ",Canalsport3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e107.hellotherepadawan.org/v5/q3WfwJy-Jo315vlg0rrGLA/1756887461/21eb375cf969f68b14472a41fdc88044/t_EMFwif2o-funXbkyb2kg/1756898141/live/vx-origin/pl-canalsport3_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/pl-canalsport4.png" group-title="ช่องกีฬาต่างประทศ",Canalsport4
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://la3.hellotherepadawan.org:9314/v5/JVaOXHDr9FDs3mswndtguw/1756887487/20f9f60269f72fd0dba5fd61cbfd8e69/LwjXo8z-L02K5QdAO5vG2g/1756898167/live/vx-origin/pl-canalsport4_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664315169.png" group-title="ช่องกีฬาต่างประทศ",Diema Sport1
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/diemasport1/playlist.m3u8
@@ -1219,26 +1232,24 @@ https://cdn1.googlecdn.live/ballsod24hrs/eurosport1es/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1711566136.png" group-title="ช่องกีฬาต่างประทศ",Eurosport 2 | Spain
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/eurosport2es/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664501652.png" group-title="ช่องกีฬาต่างประทศ",ESPN1
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133967&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664501662.png" group-title="ช่องกีฬาต่างประทศ",ESPN2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133964&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664501676.png" group-title="ช่องกีฬาต่างประทศ",ESPN3
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133966&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664501687.png" group-title="ช่องกีฬาต่างประทศ",ESPN4
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133971&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664126262.png" group-title="ช่องกีฬาต่างประทศ",ElevenSports1 Poland
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/elevensports1pl/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664848123.png" group-title="ช่องกีฬาต่างประทศ",ElevenSports2 Poland
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/elevensports2pl/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664848193.png" group-title="ช่องกีฬาต่างประทศ",ElevenSports3 Poland
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/elevensports3pl/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1755107660.png" group-title="ช่องกีฬาต่างประทศ",ElevenSports4 Poland
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/elevensports4pl/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-espn1.png" group-title="ช่องกีฬาต่างประทศ",ESPN1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e106.hellotherepadawan.org/v5/6p_4TgjYVXpaj0zKNCqbuQ/1756886152/20f9f60269f72fd0dba5fd61cbfd8e69/VuOUy68Bj5kHjhx3r8mqOQ/1756896832/live/vx-origin/nl-espn1_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-espn2.png" group-title="ช่องกีฬาต่างประทศ",ESPN2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://s2b-c.hellotherepadawan.org:9306/v5/0vzvYgU1V7VZPwEjTVieng/1756886182/21eb375cf969f68b14472a41fdc88044/qZ38KRO9k-knzNlP8kREKQ/1756896862/live/vx-origin/nl-espn2_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-espn3.png" group-title="ช่องกีฬาต่างประทศ",ESPN3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e102.hellotherepadawan.org/v5/E8LiYvPO8a0j6OKswxGfXQ/1756886208/20f9f60269f72fd0dba5fd61cbfd8e69/7WaPBmMijfg-VTS5u8CrJg/1756896888/live/vx-origin/nl-espn3_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-espn4.png" group-title="ช่องกีฬาต่างประทศ",ESPN4
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e109.hellotherepadawan.org/v5/XB4p6OtNIoNomqEjOm8gaA/1756886255/21eb375cf969f68b14472a41fdc88044/0E1q2WB6Tq4zG4ZoDgtjiw/1756896935/live/vx-origin/nl-espn4_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/us-eleven.png" group-title="ช่องกีฬาต่างประทศ",elevenSports
+https://e114.hellotherepadawan.org/v5/xOMDEKUGifiWBsomyPM6mA/1756884365/20f9f60269f72fd0dba5fd61cbfd8e69/QLeAF28BC3LZgEEX-72eHg/1756895045/live/lx-origin/us-eleven_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664219664.png" group-title="ช่องกีฬาต่างประทศ",FOX Sports 1 USA
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -1249,30 +1260,46 @@ https://e114.hellotherepadawan.org/v5/Sxey7dWyn-Io0QyMzpacGQ/1756708113/eb79b229
 https://e112.hellotherepadawan.org/v5/9u5YgWO4E1kRUoEubReuSA/1756708139/0c97fa64d36e19348bb46d25cd9d737e/ok6cykw405vAxN7M31CPEQ/1756718819/live/lx-origin/us-foxsports2_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/LaLigaTV_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/250?cb=20230704125929" group-title="ช่องกีฬาต่างประทศ",Movistar LaLiga
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=214603&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1723923355.png" group-title="ช่องกีฬาต่างประทศ",L1Max
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/l1max/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1718320056.png" group-title="ช่องกีฬาต่างประทศ",LaLiga Hypermotion TV
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/laliga-hypermotion-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1718320112.png" group-title="ช่องกีฬาต่างประทศ",LaLiga Hypermotion TV2
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/laliga-hypermotion-tv-2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1718320120.png" group-title="ช่องกีฬาต่างประทศ",LaLiga Hypermotion TV3
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/laliga-hypermotion-tv-3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1694909293.png" group-title="ช่องกีฬาต่างประทศ",NFL Network
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/nfl/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1697334593.png" group-title="ช่องกีฬาต่างประทศ",Prima TV
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/primatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1694689157.png" group-title="ช่องกีฬาต่างประทศ",Prima Sport 1
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/primasport1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1695249914.png" group-title="ช่องกีฬาต่างประทศ",Prima Sport 2
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/primasport2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/au-fox501.png" group-title="ช่องกีฬาต่างประทศ",Foxsport501
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e105.hellotherepadawan.org/v5/xyM0eTl55UFAGHfeyGu6SQ/1756884418/21eb375cf969f68b14472a41fdc88044/XvExM1bkxuC3lKVXUfF4ew/1756895098/live/vx-origin/au-fox501_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/au-fox502.png" group-title="ช่องกีฬาต่างประทศ",Foxsport502
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e111.hellotherepadawan.org/v5/89d4_J98wN0oue76gGDgtw/1756884595/20f9f60269f72fd0dba5fd61cbfd8e69/tuMUJiiiD0lEikQJucxJ8A/1756895275/live/vx-origin/au-fox502_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/au-fox503.png" group-title="ช่องกีฬาต่างประทศ",Foxsport503
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e106.hellotherepadawan.org/v5/EsvgGxguduIR1iLDzKWYfA/1756884623/20f9f60269f72fd0dba5fd61cbfd8e69/La8NtH0wKCrzYyYdITiw1g/1756895303/live/vx-origin/au-fox503_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/au-fox504.png" group-title="ช่องกีฬาต่างประทศ",Foxsport504
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e109.hellotherepadawan.org/v5/qLd9YJeTBtyxBV54KiQ2nA/1756884689/21eb375cf969f68b14472a41fdc88044/iL-YJBBdz91FUK2zRfLvYw/1756895369/live/vx-origin/au-fox504_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/au-fox505.png" group-title="ช่องกีฬาต่างประทศ",Foxsport505
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e102.hellotherepadawan.org/v5/Zy1nfse78jOtex8C3KSrrw/1756884756/20f9f60269f72fd0dba5fd61cbfd8e69/J797r_-m8SCsvZxJTxbqdQ/1756895436/live/vx-origin/au-fox505_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/au-fox507.png" group-title="ช่องกีฬาต่างประทศ",Foxsport507
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e113.hellotherepadawan.org/v5/PIlD-XSJse1ePhvbDEdsLg/1756884735/20f9f60269f72fd0dba5fd61cbfd8e69/gnNzwp_8c-HW559Mt592SA/1756895415/live/vx-origin/au-fox507_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/cz-novasport1.png" group-title="ช่องกีฬาต่างประทศ",Novasport1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e114.hellotherepadawan.org/v5/eF8Zm7cfHGSzJQGnyyWyBg/1756885480/20f9f60269f72fd0dba5fd61cbfd8e69/3fLpFKEn62LJAda3P6FY7g/1756896160/live/vx-origin/cz-novasport1_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/cz-novasport2.png" group-title="ช่องกีฬาต่างประทศ",Novasport2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e107.hellotherepadawan.org/v5/IqfN6eYKfqXPonL8nYzF9w/1756885512/20f9f60269f72fd0dba5fd61cbfd8e69/ZMEq7aSqeV4BYHFNSBt6Kw/1756896192/live/vx-origin/cz-novasport2_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/cz-novasport3.png" group-title="ช่องกีฬาต่างประทศ",Novasport3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e113.hellotherepadawan.org/v5/zjA6KYES2RjIb5yF0-3pjw/1756885535/20f9f60269f72fd0dba5fd61cbfd8e69/yMl2f2NaulJV4yczutbYDQ/1756896215/live/vx-origin/cz-novasport3_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/cz-novasport5.png" group-title="ช่องกีฬาต่างประทศ",Novasport5
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e114.hellotherepadawan.org/v5/Bu8g4NDs23svnXGriRleiQ/1756885567/21eb375cf969f68b14472a41fdc88044/56wwpF8AkNBJ6S8SOrAmCw/1756896247/live/vx-origin/cz-novasport5_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1695604346.png" group-title="ช่องกีฬาต่างประทศ",Prima Sport 3
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/primasport3/chunks.m3u8
@@ -1282,30 +1309,50 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/primasport4/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1696610104.png" group-title="ช่องกีฬาต่างประทศ",Prima Sport 5
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/primasport5/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1715565710.png" group-title="ช่องกีฬาต่างประทศ",Premier Sport 1
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/premiersport1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1715565724.png" group-title="ช่องกีฬาต่างประทศ",Premier Sport 2
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/premiersport2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1721182604.png" group-title="ช่องกีฬาต่างประทศ",Polsat Sport 1 | Poland
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/pl-polsatsportpremium1.png" group-title="ช่องกีฬาต่างประทศ",Polsatsportpremium1
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e114.hellotherepadawan.org/v5/u4YvuEKiIR0vxwk0CftA0A/1756708389/0c97fa64d36e19348bb46d25cd9d737e/a-J30SXkttbFYh_qzMnyTQ/1756719069/live/vx-origin/pl-polsatsportpremium5_720/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1723569749.png" group-title="ช่องกีฬาต่างประทศ",Polsat Sport 2 | Poland
+https://e114.hellotherepadawan.org/v5/GMwot3a58s3EULXD9YPMvA/1756887716/21eb375cf969f68b14472a41fdc88044/XqsLk1ugcf8O-BmSFng_1A/1756898396/live/vx-origin/pl-polsatsportpremium1_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/pl-polsatsportpremium2.png" group-title="ช่องกีฬาต่างประทศ",Polsatsportpremium2
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e101.hellotherepadawan.org/v5/jgFZg4_F7UjdvOznFRVIaw/1756708331/0c97fa64d36e19348bb46d25cd9d737e/1Gyxf_AVsMwa12Dctabygw/1756719011/live/vx-origin/pl-polsatsportpremium2_720/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1722964013.png" group-title="ช่องกีฬาต่างประทศ",Polsat Sport 3 | Poland
+https://e108.hellotherepadawan.org/v5/etbv0aIaMCNRbNb2GfHssA/1756887747/20f9f60269f72fd0dba5fd61cbfd8e69/LzdSJ_81H7NV1WBxf4yjsg/1756898427/live/vx-origin/pl-polsatsportpremium2_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/pl-polsatsportpremium4.png" group-title="ช่องกีฬาต่างประทศ",Polsatsportpremium4
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e109.hellotherepadawan.org/v5/ikJP-8RyZ7csFIoXH64S-w/1756708360/eb79b2290aed13cdd693ebbf408b324d/abaKyBz_lx_1vEVLHhHmZA/1756719040/live/vx-origin/pl-polsatsportpremium4_720/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1721584784.png" group-title="ช่องกีฬาต่างประทศ",Polsat Sport Premium 1 | Poland
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/polsatsportpremium1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1724779203.png" group-title="ช่องกีฬาต่างประทศ",Polsat Sport Premium 2 | Poland
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/polsatsportpremium2/chunks.m3u8
+https://e107.hellotherepadawan.org/v5/OhVyl2IyDo5lv4mIA_7N4w/1756887806/21eb375cf969f68b14472a41fdc88044/IC45GezIeQ42dKtkog0INg/1756898486/live/vx-origin/pl-polsatsportpremium4_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/pl-polsatsportpremium5.png" group-title="ช่องกีฬาต่างประทศ",Polsatsportpremium5
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e109.hellotherepadawan.org/v5/HoTyjZ2uY3nRQlNVoGG7Ww/1756887845/20f9f60269f72fd0dba5fd61cbfd8e69/9JKt2sZiXr2Ld30QRQcM0w/1756898525/live/vx-origin/pl-polsatsportpremium5_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/pl-polsatsportpremium6.png" group-title="ช่องกีฬาต่างประทศ",Polsatsportpremium6
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e108.hellotherepadawan.org/v5/5yYuIEp3qLfdT5a-0WGGWA/1756887886/21eb375cf969f68b14472a41fdc88044/VOPXWrlTw7p_3AciCN7gKg/1756898566/live/vx-origin/pl-polsatsportpremium6_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/fr-rmcsport1.png" group-title="ช่องกีฬาต่างประทศ",Rmcsport1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://la5.hellotherepadawan.org:9312/v5/EmEwlocctCA3GU8ba_mw3g/1756885793/20f9f60269f72fd0dba5fd61cbfd8e69/qCAeexA3bEkPvi5E5WjkGw/1756896473/live/vx-origin/fr-rmcsport1_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/fr-rmcsport2.png" group-title="ช่องกีฬาต่างประทศ",Rmcsport2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e101.hellotherepadawan.org/v5/dU6DhNCQbLTyxozydgz7zg/1756885817/20f9f60269f72fd0dba5fd61cbfd8e69/H2HYu-D7ub1FXFvR4SjvNw/1756896497/live/vx-origin/fr-rmcsport2_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/fr-rmcsport3.png" group-title="ช่องกีฬาต่างประทศ",Rmcsport3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e112.hellotherepadawan.org/v5/Zemh3zHhRRpo1mT2bP-G8g/1756885840/20f9f60269f72fd0dba5fd61cbfd8e69/0rPrR-y8-JX6tI943dZudQ/1756896520/live/vx-origin/fr-rmcsport3_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/rs-sportklub1.png" group-title="ช่องกีฬาต่างประทศ",Sportklub1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e111.hellotherepadawan.org/v5/DpmIxHLk6LZKfgA6w6qL6g/1756885291/21eb375cf969f68b14472a41fdc88044/EfmYo56TVTsUfFX9TFz-ow/1756895971/live/vx-origin/rs-sportklub1_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/rs-sportklub2.png" group-title="ช่องกีฬาต่างประทศ",Sportklub2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e102.hellotherepadawan.org/v5/EKiZY9dDiTko6y1rBuwl8A/1756885316/21eb375cf969f68b14472a41fdc88044/mu2vPlrZ9gUFydfu-F8F3g/1756895996/live/vx-origin/rs-sportklub2_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/rs-sportklub3.png" group-title="ช่องกีฬาต่างประทศ",Sportklub3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e102.hellotherepadawan.org/v5/gPTw5UzOrco0ecwtCGTuXQ/1756885334/21eb375cf969f68b14472a41fdc88044/6S-96c4fm4aaWHzPgHrI0g/1756896014/live/vx-origin/rs-sportklub3_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1663979709.png" group-title="ช่องกีฬาต่างประทศ",SPORTTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
@@ -1439,80 +1486,82 @@ https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysportspremie
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712889189.png" group-title="ช่องกีฬาต่างประทศ",SkySportsRacing 
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysportsracing.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="ช่องกีฬาต่างประทศ", SkySport1_NZ-FHD
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="ช่องกีฬาต่างประทศ", SkySport2_NZ-FHD
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="ช่องกีฬาต่างประทศ", SkySport3_NZ-FHD
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" group-title="ช่องกีฬาต่างประทศ", SkySport4_NZ-FHD
-https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" group-title="ช่องกีฬาต่างประทศ", SkySport6_NZ-FHD
-https://7pal.short.gy/skyspt6nz
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" group-title="ช่องกีฬาต่างประทศ", SkySport7_NZ-FHD
-https://7pal.short.gy/skyspt7nz
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="ช่องกีฬาต่างประทศ", SkySport8-PremierLeague_NZ-FHD
-https://7pal.short.gy/skyspt8nz
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d1UQXPt.png" group-title="ช่องกีฬาต่างประทศ",SuperSportGrandstand
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport1.png" group-title="ช่องกีฬาต่างประทศ", SkySport1_NZ
+#EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium412/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RQfhJMi.png" group-title="ช่องกีฬาต่างประทศ",SuperSport PSL
-#EXTVLCOPT:http-referrer=https://zekonew.newkso.ru/
+https://e103.hellotherepadawan.org/v5/OxYh8ncUrne-C26ZcEWW-w/1756886894/21eb375cf969f68b14472a41fdc88044/09akts7niO8XydxuPu6uuQ/1756897574/live/vx-origin/nz-skysport1_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport2.png" group-title="ช่องกีฬาต่างประทศ", SkySport2_NZ
+#EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium413/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?id=1P64yAQFOBf5OKwp_lxoBiMs7Hdvw3G7G" group-title="ช่องกีฬาต่างประทศ",SuperSportPremierleague
-#EXTVLCOPT:http-referrer=https://ddy6new.newkso.ru/
+https://la5.hellotherepadawan.org:9314/v5/1989lVyaq_b_Vyn4AZL_8w/1756886924/20f9f60269f72fd0dba5fd61cbfd8e69/2nLOYlUcxsH9ZGuWFMr_Cw/1756897604/live/vx-origin/nz-skysport3_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport3.png" group-title="ช่องกีฬาต่างประทศ", SkySport3_NZ
+#EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?id=1KoJMfOIrAOTYDDmzHRHIKUOOXSgHGhud" group-title="ช่องกีฬาต่างประทศ",SuperSportLaLiga
-#EXTVLCOPT:http-referrer=https://ddy6new.newkso.ru/
+https://la5.hellotherepadawan.org:9314/v5/1989lVyaq_b_Vyn4AZL_8w/1756886924/20f9f60269f72fd0dba5fd61cbfd8e69/2nLOYlUcxsH9ZGuWFMr_Cw/1756897604/live/vx-origin/nz-skysport3_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport4.png" group-title="ช่องกีฬาต่างประทศ", SkySport4_NZ
+#EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium415/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?id=1Scsnbo-5kdU7Gz8372T-nMc0LkMc0JK2" group-title="ช่องกีฬาต่างประทศ",SuperSportVariety1
-#EXTVLCOPT:http-referrer=https://zekonew.newkso.ru/
+https://e102.hellotherepadawan.org/v5/OHfOuvdRI010VZE4YNTOuQ/1756886950/21eb375cf969f68b14472a41fdc88044/pG9jS11KzaGdx9L8SMM47Q/1756897630/live/vx-origin/nz-skysport4_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport5.png" group-title="ช่องกีฬาต่างประทศ", SkySport5_NZ
+#EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium416/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?id=1s4aaH_30lkDXPkGoc3GAJ6hiMW53An5Q" group-title="ช่องกีฬาต่างประทศ",SuperSportVariety2
-#EXTVLCOPT:http-referrer=https://windnew.newkso.ru/
+https://e102.hellotherepadawan.org/v5/a4LG9OV3WEj-84VmAL10Yw/1756886972/20f9f60269f72fd0dba5fd61cbfd8e69/4UyNNo-ThfbTNfJxXbA5Qw/1756897652/live/vx-origin/nz-skysport5_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport6.png" group-title="ช่องกีฬาต่างประทศ", SkySport6_NZ
+#EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium417/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?id=1-u1f9xY5jL150-EPGX0rwBs6Ydv2NfBK" group-title="ช่องกีฬาต่างประทศ",SuperSportVariety3
-#EXTVLCOPT:http-referrer=https://ddy6new.newkso.ru/
+https://e102.hellotherepadawan.org/v5/itdEHC9tf5Wbgbz1c2jL7g/1756886997/21eb375cf969f68b14472a41fdc88044/N0ZRbT4xDTOjUr4-Ym3dyw/1756897677/live/vx-origin/nz-skysport6_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport7.png" group-title="ช่องกีฬาต่างประทศ", SkySport7_NZ
+#EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium418/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?id=1Hfi1CAaB0wS-IB04Cgwe45Q8by7DJLJR" group-title="ช่องกีฬาต่างประทศ",SuperSportVariety4
-#EXTVLCOPT:http-referrer=https://zekonew.newkso.ru/
+https://a4.hellotherepadawan.org:9303/v5/wM3VWQwgIZvO8GWbFmCpag/1756887021/20f9f60269f72fd0dba5fd61cbfd8e69/Ez_ZFyDdC522Jw5ZsH0jQQ/1756897701/live/vx-origin/nz-skysport7_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport8.png" group-title="ช่องกีฬาต่างประทศ", SkySport8_NZ
+#EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium419/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?id=1gN0P4cZc8pTXd7hW2HiqiXj-s3SqmGDg" group-title="ช่องกีฬาต่างประทศ",SuperSportAction
-#EXTVLCOPT:http-referrer=https://windnew.newkso.ru/
+https://e110.hellotherepadawan.org/v5/WT3NG0yGVs0xvHwKi5Bf0w/1756887044/21eb375cf969f68b14472a41fdc88044/0NSwEu6F9_Oam_bbMRtz2Q/1756897724/live/vx-origin/nz-skysport8_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport9.png" group-title="ช่องกีฬาต่างประทศ", SkySport9_NZ
+#EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium420/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?id=1vLYXlvWF9hBoXHFDK665frW_mmTrV6MJ" group-title="ช่องกีฬาต่างประทศ",SuperSportRugby
-#EXTVLCOPT:http-referrer=https://zekonew.newkso.ru/
+https://e109.hellotherepadawan.org/v5/af88-P_TZ0Cl59JABakpJg/1756887077/21eb375cf969f68b14472a41fdc88044/GKQ5fnc1UCBOtQ0fEcIgUw/1756897757/live/vx-origin/nz-skysport9_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/al-supersports2.png" group-title="ช่องกีฬาต่างประทศ",supersports2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium421/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?id=1izIYdOB9nWf3Fs1KPiY7FRg3QlXufAyn" group-title="ช่องกีฬาต่างประทศ",SuperSportGolf
-#EXTVLCOPT:http-referrer=https://zekonew.newkso.ru/
+https://la3.hellotherepadawan.org:9303/v5/QOEl7l-WT2Y_JIizsQ3uZg/1756884061/20f9f60269f72fd0dba5fd61cbfd8e69/zhlbvh4qQEV6cxqsfQiUog/1756894741/live/vx-origin/al-supersports2_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/al-supersports3.png" group-title="ช่องกีฬาต่างประทศ",supersports3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium422/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1699121407.png" group-title="ช่องกีฬาต่างประทศ", TyC Sports Internacional
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/tycsports/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1695936059.png" group-title="ช่องกีฬาต่างประทศ", TV4 Fotboll (Sweden)
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/tv4fotboll/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://overseer.blackboxsys.net/images/png/ca-tsn1.png" group-title="ช่องกีฬาต่างประทศ",TSN1
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134280&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://overseer.blackboxsys.net/images/png/ca-tsn2.png" group-title="ช่องกีฬาต่างประทศ",TSN2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134281&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://overseer.blackboxsys.net/images/png/ca-tsn3.png" group-title="ช่องกีฬาต่างประทศ",TSN3
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134282&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://overseer.blackboxsys.net/images/png/ca-tsn4.png" group-title="ช่องกีฬาต่างประทศ",TSN4
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134283&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://overseer.blackboxsys.net/images/png/ca-tsn5.png" group-title="ช่องกีฬาต่างประทศ",TSN5
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134284&extension=ts
+https://e101.hellotherepadawan.org/v5/z-QLMXeCeGCGQmow8OFl3g/1756884223/21eb375cf969f68b14472a41fdc88044/gAbElLIvy9324hiwL8stsw/1756894903/live/vx-origin/al-supersports3_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/al-supersports4.png" group-title="ช่องกีฬาต่างประทศ",supersports4
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e108.hellotherepadawan.org/v5/b3OrszzKe5y7xwY95DAXHA/1756884287/21eb375cf969f68b14472a41fdc88044/SuiqJ5iIRKzliX-WrSCMsg/1756894967/live/vx-origin/al-supersports4_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/af-supersport8.png" group-title="ช่องกีฬาต่างประทศ",supersport8
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e102.hellotherepadawan.org/v5/sTSrKl5HZCSEaDwNHwPscA/1756883945/21eb375cf969f68b14472a41fdc88044/KPykyNdStYPaFxJLt0Y4AA/1756894625/live/lx-origin/af-supersport8_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/af-supersport13.png" group-title="ช่องกีฬาต่างประทศ",supersport13
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e109.hellotherepadawan.org/v5/a2sMJYKW5QeszWzyxQYltQ/1756883880/21eb375cf969f68b14472a41fdc88044/AFAobzeTEzH06qTt_03r4A/1756894560/live/lx-origin/af-supersport13_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/ca-tsn1.png" group-title="ช่องกีฬาต่างประทศ",TSN1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e112.hellotherepadawan.org/v5/m4hR46EuM0VMjrQUk-VBMA/1756884976/20f9f60269f72fd0dba5fd61cbfd8e69/kybaWEt74-JbX-tmE-Song/1756895656/live/vx-origin/ca-tsn1_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/ca-tsn2.png" group-title="ช่องกีฬาต่างประทศ",TSN2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e105.hellotherepadawan.org/v5/xsgrfO421gpxso3EJvi-Qw/1756884998/21eb375cf969f68b14472a41fdc88044/ELm-3GeMa8cBh2sFXs5QFg/1756895678/live/vx-origin/ca-tsn2_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/ca-tsn3.png" group-title="ช่องกีฬาต่างประทศ",TSN3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://s3x-c.hellotherepadawan.org:9301/v5/tvhdoxt2Xu4PeF1SfFOoyQ/1756885115/20f9f60269f72fd0dba5fd61cbfd8e69/uXea0zN90VBsymkNRbdFlg/1756895795/live/vx-origin/ca-tsn3_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/ca-tsn4.png" group-title="ช่องกีฬาต่างประทศ",TSN4
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://la4.hellotherepadawan.org:9309/v5/waOqqRmDm6qluZ0q35FGVg/1756885066/20f9f60269f72fd0dba5fd61cbfd8e69/WJKPlsbHHOh3trxsb2habQ/1756895746/live/vx-origin/ca-tsn4_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/ca-tsn5.png" group-title="ช่องกีฬาต่างประทศ",TSN5
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e113.hellotherepadawan.org/v5/80bQgZdP9M35ytj9qRyKMg/1756885089/20f9f60269f72fd0dba5fd61cbfd8e69/znBPn1sp4mp_GNb4ja206Q/1756895769/live/vx-origin/ca-tsn5_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-btsport1hd.png" group-title="ช่องกีฬาต่างประทศ",TNTSPORT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -1545,13 +1594,38 @@ https://cdn1.googlecdnforstreaming.live/live/btsport4/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 https://cdn2.aws-live-streaming.com/lsmscore/btsport4/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1753040687.png" group-title="ช่องกีฬาต่างประทศ",W-Sport
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/w-sport/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/nl-ziggosportselect.png" group-title="ช่องกีฬาต่างประทศ",ZIGGOSPORTS
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/no-vsport2.png" group-title="ช่องกีฬาต่างประทศ",Vsport2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium396/mono.m3u8
+https://e110.hellotherepadawan.org/v5/1oYLqJjWQ9esodWuqy047g/1756887202/21eb375cf969f68b14472a41fdc88044/2VApIqMT3qpF7BJLMgXDfQ/1756897882/live/dx-origin/no-vsport2_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/no-vsport3.png" group-title="ช่องกีฬาต่างประทศ",Vsport3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e111.hellotherepadawan.org/v5/WN5juisPrhamLhV35JTrKg/1756887243/21eb375cf969f68b14472a41fdc88044/vO_1wEG4PLeKgigbjqX_dA/1756897923/live/vx-origin/no-vsport3_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport1.png" group-title="ช่องกีฬาต่างประทศ",Ziggosport1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e106.hellotherepadawan.org/v5/CWWI6bZS_n7oIKoTQgLZkw/1756886427/21eb375cf969f68b14472a41fdc88044/ssImd7JvBFlWwKbE5I2N9A/1756897107/live/vx-origin/nl-ziggosport1_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport2.png" group-title="ช่องกีฬาต่างประทศ",Ziggosport2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e108.hellotherepadawan.org/v5/8UQyJ-YYh9oKs4fS0MrXGg/1756886455/20f9f60269f72fd0dba5fd61cbfd8e69/bN0rlXlvE12Ez6piMJLRKw/1756897135/live/vx-origin/nl-ziggosport2_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport3.png" group-title="ช่องกีฬาต่างประทศ",Ziggosport3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e113.hellotherepadawan.org/v5/EglQqQPpEsxyDXCY1UJ3Fw/1756886490/21eb375cf969f68b14472a41fdc88044/43Gcd306-QyRky59W4xMZQ/1756897170/live/vx-origin/nl-ziggosport3_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport4.png" group-title="ช่องกีฬาต่างประทศ",Ziggosport4
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e113.hellotherepadawan.org/v5/VFREzehVz1avP92G9LGnBw/1756886530/20f9f60269f72fd0dba5fd61cbfd8e69/nbON9hV9GwGt8Ac1t1D7fA/1756897210/live/vx-origin/nl-ziggosport4_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport5.png" group-title="ช่องกีฬาต่างประทศ",Ziggosport5
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://s8a-c.hellotherepadawan.org:9309/v5/UajaCnLR_RSsZ70kMdU2yA/1756886551/20f9f60269f72fd0dba5fd61cbfd8e69/Mav1vxck74tWM0CQCTo6Rg/1756897231/live/vx-origin/nl-ziggosport5_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport6.png" group-title="ช่องกีฬาต่างประทศ",Ziggosport6
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e112.hellotherepadawan.org/v5/U_RsVETWbH5Vo8xS2mLqZA/1756886572/20f9f60269f72fd0dba5fd61cbfd8e69/Wh5zDE1Elfb2Ht77Er_kQA/1756897252/live/vx-origin/nl-ziggosport6_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/88e508b20c4ec250fe8142c0f02f27d98958d9247f75710a22343e573ffe9c19.png" group-title="ช่องกีฬาต่างประทศ",MUTV(UK)
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/mutv/chunks.m3u8
