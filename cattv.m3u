@@ -384,7 +384,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 https://e113.hellotherepadawan.org/v5/4ERgFNzLugJUuyaBYiXE9Q/1756776501/c9f3cb72feca0d48906cebc62d3b3dd7/i614W8nl7T1Posw4E9lMOg/1756787181/live/vx-origin/sd-expwild_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORELIFE
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueexplorelife.m3u8
+http://violetta.cfd:8080/play/live.php?mac=00:1A:79:76:09:B7&stream=8662&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORESCI
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueexploresci.m3u8
