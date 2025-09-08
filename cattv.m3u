@@ -71,8 +71,8 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0015_R.png" group-title="ช่องทีวีดิจิตอล",WorkpointTV
-https://m3u-lime.vercel.app/stream/workpoint23.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0015_R.png" group-title="ช่องทีวีดิจิตอล",WorkpointTVHD
+https://global-media.sooplive.com/live/workpoint/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่องทีวีดิจิตอล",True4U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
@@ -85,22 +85,20 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="ช่องทีวีดิจิตอล",GMM25
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0006.png" group-title="ช่องทีวีดิจิตอล",CH8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0006.png" group-title="ช่องทีวีดิจิตอล",CH8
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png" group-title="ช่องทีวีดิจิตอล",MONO29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png" group-title="ช่องทีวีดิจิตอล",MONO29HD
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/mono29.m3u8
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png" group-title="ช่องทีวีดิจิตอล",MONO29FHD
 https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="ช่องทีวีดิจิตอล", MonoPlusHD
@@ -1062,6 +1060,212 @@ https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/asean-women-championship-1/pla
 https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/asean-women-championship-2/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax01.png" group-title="DOOBALL66 SPORT",monomax1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e106.hellotherepadawan.org/v5/AX1qNc_4-4YL9vcRMvVtGw/1756820756/0c97fa64d36e19348bb46d25cd9d737e/GY-NHBu_LuZx9PYjiYoQQA/1756831436/live/dx-origin/dooball66-max01_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax01bkp.png" group-title="DOOBALL66 SPORT",monomax1bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e109.hellotherepadawan.org/v5/0NKRyvWlR--ixZ4N37PRmA/1756820816/eb79b2290aed13cdd693ebbf408b324d/GrZSIYYt70zvJjeYjWNJ4w/1756831496/live/lx-origin/th-monomax01bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax01eng.png" group-title="DOOBALL66 SPORT",monomax1eng
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e113.hellotherepadawan.org/v5/P6L6GMDSkMtBJt-LM_KaxA/1756820947/0c97fa64d36e19348bb46d25cd9d737e/nCOK1RQ5Rac2GzHJ4fIyJA/1756831627/live/lx-origin/th-monomax01eng_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax02.png" group-title="DOOBALL66 SPORT",monomax2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e101.hellotherepadawan.org/v5/qh3QYCpGG1Kjc0guWhaMvg/1756821038/eb79b2290aed13cdd693ebbf408b324d/-rhb83XC_NFQLGWsqErQrg/1756831718/live/dx-origin/dooball66-max02_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax02bkp.png" group-title="DOOBALL66 SPORT",monomax2bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e102.hellotherepadawan.org/v5/JYjDcAJqDGhIh7NTGA3xHA/1756821117/0c97fa64d36e19348bb46d25cd9d737e/MVs7chatfKCYqNOXInAxXQ/1756831797/live/lx-origin/th-monomax02bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax02eng.png" group-title="DOOBALL66 SPORT",monomax2eng
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e111.hellotherepadawan.org/v5/aaVdJDHO0J_y8Msc_Iyezg/1756821189/eb79b2290aed13cdd693ebbf408b324d/83FTBuILi72XC9anPbmckw/1756831869/live/lx-origin/th-monomax02eng_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax03.png" group-title="DOOBALL66 SPORT",monomax3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e101.hellotherepadawan.org/v5/Js2e44T6PegsLUihDoKlYQ/1756821250/0c97fa64d36e19348bb46d25cd9d737e/JZVUBpHB-BkZ-9oXcTvszA/1756831930/live/dx-origin/dooball66-max03_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax03bkp.png" group-title="DOOBALL66 SPORT",monomax3bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e101.hellotherepadawan.org/v5/a1kcVpcLeXE07XMD7EKk5Q/1756821322/eb79b2290aed13cdd693ebbf408b324d/nKYKhoE68rEwFmnHquwO1A/1756832002/live/lx-origin/th-monomax03bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax03eng.png" group-title="DOOBALL66 SPORT",monomax3eng
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e102.hellotherepadawan.org/v5/tBAlXnn9GKl_ZnYtEV70lg/1756821399/0c97fa64d36e19348bb46d25cd9d737e/LhDIM6e9WVqKX-XpPEFRSw/1756832079/live/lx-origin/th-monomax03eng_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax04.png" group-title="DOOBALL66 SPORT",monomax4
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e111.hellotherepadawan.org/v5/mLiE--ITPDQqefBU1slcRw/1756821476/eb79b2290aed13cdd693ebbf408b324d/ftUanxgTrc-XWH7Pz7WvdA/1756832156/live/dx-origin/dooball66-max04_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax04bkp.png" group-title="DOOBALL66 SPORT",monomax4bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e107.hellotherepadawan.org/v5/hkrs3fJqpLkytFpsV1gcAw/1756821551/0c97fa64d36e19348bb46d25cd9d737e/pR18yIApw4qfCX30JSDtQg/1756832231/live/lx-origin/th-monomax04bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax04eng.png" group-title="DOOBALL66 SPORT",monomax4eng
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://la1.hellotherepadawan.org:9302/v5/c53utiOF4xS5J3xYWxu9fw/1756821618/eb79b2290aed13cdd693ebbf408b324d/Z0TghhDrFbXhUC-bQdP2Pw/1756832298/live/lx-origin/th-monomax04eng_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax05.png" group-title="DOOBALL66 SPORT",monomax5
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e113.hellotherepadawan.org/v5/cetkx1DG7bXfsJAI7xQaVQ/1756821673/0c97fa64d36e19348bb46d25cd9d737e/auY4WR8DNWOeC3AY9skTuA/1756832353/live/dx-origin/dooball66-max05_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax05bkp.png" group-title="DOOBALL66 SPORT",monomax5bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e111.hellotherepadawan.org/v5/6ylvjb7DVqXiYNZ69qIQhg/1756821739/eb79b2290aed13cdd693ebbf408b324d/Blj9I7X4w3R43SEVG86Cmg/1756832419/live/lx-origin/th-monomax05bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax05eng.png" group-title="DOOBALL66 SPORT",monomax5eng
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e106.hellotherepadawan.org/v5/SAXnClSKWW1JS0Klnky_pg/1756821813/eb79b2290aed13cdd693ebbf408b324d/bZQq76RfCjffwb4J3c8mPw/1756832493/live/lx-origin/th-monomax05eng_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax06.png" group-title="DOOBALL66 SPORT",monomax6
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e113.hellotherepadawan.org/v5/8iNi8VAmd1LCwms4w3fYKA/1756821902/0c97fa64d36e19348bb46d25cd9d737e/S1ArSgXbkQuz7NkculcAnA/1756832582/live/dx-origin/dooball66-max06_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax06bkp.png" group-title="DOOBALL66 SPORT",monomax6bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://s8x.hellotherepadawan.org:9313/v5/2OuVHFMThw68QDKF0PWSNQ/1756821982/eb79b2290aed13cdd693ebbf408b324d/C8hdcZpYKwtfAdtiNu7HTA/1756832662/live/lx-origin/th-monomax06bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax06eng.png" group-title="DOOBALL66 SPORT",monomax6eng
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e105.hellotherepadawan.org/v5/RWfIJVm6Ms2pIVw3H5yT4g/1756822041/0c97fa64d36e19348bb46d25cd9d737e/BbhM_rFW2-NAXTh32Z18iQ/1756832721/live/lx-origin/th-monomax06eng_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax07.png" group-title="DOOBALL66 SPORT",monomax7
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e106.hellotherepadawan.org/v5/tjU9Of4VbjVDH-SgphEzqA/1756822102/eb79b2290aed13cdd693ebbf408b324d/gp0vqnqLLW9y8JoXxw5Kjw/1756832782/live/dx-origin/dooball66-max07_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax07bkp.png" group-title="DOOBALL66 SPORT",monomax7bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e101.hellotherepadawan.org/v5/TcgYF4JMs4NA8zxCygsLwQ/1756822171/0c97fa64d36e19348bb46d25cd9d737e/CFFVc8wUnkDXscdCXJIMTw/1756832851/live/lx-origin/th-monomax07bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax07eng.png" group-title="DOOBALL66 SPORT",monomax7eng
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e109.hellotherepadawan.org/v5/r4vNdd_jTjvosxcoeLKlRw/1756822237/eb79b2290aed13cdd693ebbf408b324d/pyHPtrOoi98chGoU0u594w/1756832917/live/lx-origin/th-monomax07eng_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax08.png" group-title="DOOBALL66 SPORT",monomax8
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e112.hellotherepadawan.org/v5/7ZS8BsLzVk9ENBmbmw7WOQ/1756822297/0c97fa64d36e19348bb46d25cd9d737e/pvGsrcB_omasxVvBMKzCjA/1756832977/live/dx-origin/dooball66-max08_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax08bkp.png" group-title="DOOBALL66 SPORT",monomax8bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e106.hellotherepadawan.org/v5/QcIfkfDInX2OHWjSZron9g/1756822354/eb79b2290aed13cdd693ebbf408b324d/3S_bJnsD-qpY_2OufiCodw/1756833034/live/lx-origin/th-monomax08bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax09.png" group-title="DOOBALL66 SPORT",monomax9
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e111.hellotherepadawan.org/v5/4y3VUjnOUfHsJYh8Rf2Afg/1756822411/0c97fa64d36e19348bb46d25cd9d737e/-vtfWhmiTAuzR_YwkwVH4Q/1756833091/live/dx-origin/th-monomax09_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax09eng.png" group-title="DOOBALL66 SPORT",monomax9eng
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e108.hellotherepadawan.org/v5/uF20aHj3N0q11q2CB05qBQ/1756822466/eb79b2290aed13cdd693ebbf408b324d/uuIy4ZLVbQDo5z3zyalz5Q/1756833146/live/lx-origin/th-monomax09eng_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/epl-bein1.png" group-title="DOOBALL66 SPORT",bein1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://la1.hellotherepadawan.org:9314/v5/j9zjl9OHjsgty3SU1ikLGA/1756822575/0c97fa64d36e19348bb46d25cd9d737e/NPx600L91oyC8-Hi5f0SMw/1756833255/live/dx-origin/dooball66-bein1x_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-bein1.png" group-title="DOOBALL66 SPORT",bein1bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://la1.hellotherepadawan.org:9312/v5/fM4dnBeLyQwsrQqAzjS3vw/1756822640/eb79b2290aed13cdd693ebbf408b324d/a4DDoRw2E70c3k1bsvfz8Q/1756833320/live/vx-origin/th-bein1_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/epl-bein2.png" group-title="DOOBALL66 SPORT",bein2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e103.hellotherepadawan.org/v5/7NcKnj_DK5Sf9zWk0Uyqtw/1756822684/0c97fa64d36e19348bb46d25cd9d737e/HU5wWc05pTLIQU5KtoRu7g/1756833364/live/dx-origin/dooball66-bein2x_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-bein2.png" group-title="DOOBALL66 SPORT",bein2bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e112.hellotherepadawan.org/v5/l-pVAJlxBJ9N9Jitien3qQ/1756822749/eb79b2290aed13cdd693ebbf408b324d/icT3rYYG7tXTspmZ2EZC2g/1756833429/live/vx-origin/th-bein2_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/epl-bein3.png" group-title="DOOBALL66 SPORT",bein3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://la3.hellotherepadawan.org:9306/v5/RdlHvgv8v3TGQCJvx7W8wg/1756822845/0c97fa64d36e19348bb46d25cd9d737e/0BX6R6hyoedbRmf4RatR1A/1756833525/live/dx-origin/dooball66-bein3x_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-bein3.png" group-title="DOOBALL66 SPORT",bein3bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://s8x.hellotherepadawan.org:9313/v5/zDuwQKRoseJxO0sHRhx7SQ/1756822910/eb79b2290aed13cdd693ebbf408b324d/jBFPIbnJqAG7zJaLfMDxJQ/1756833590/live/vx-origin/th-bein3_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/hd-tsport1.png" group-title="DOOBALL66 SPORT",tsport1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e112.hellotherepadawan.org/v5/JrAXRxlvnDaPyPcS_gjfQA/1756822950/0c97fa64d36e19348bb46d25cd9d737e/zgy5zjazNQdpl56uIimtqg/1756833630/live/vx-origin/dooball66-tsporthd1x_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-tsporthd1.png" group-title="DOOBALL66 SPORT",tsport1bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e112.hellotherepadawan.org/v5/QeJsK2DU-S4V_mOSahVj_w/1756823038/eb79b2290aed13cdd693ebbf408b324d/gRVQmCOEXlAEmi66BcYSiw/1756833718/live/vx-origin/th-tsporthd1_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/hd-tsport2.png" group-title="DOOBALL66 SPORT",tsport2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e110.hellotherepadawan.org/v5/8UnS43fIa2D0hakJ-PG5wQ/1756823103/0c97fa64d36e19348bb46d25cd9d737e/ZsfzdlvJ4-GonJmRbW09Gg/1756833783/live/vx-origin/dooball66-tsporthd2x_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-tsporthd2.png" group-title="DOOBALL66 SPORT",tsport2bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e102.hellotherepadawan.org/v5/dWSl9jvZfQbZD2cTEMpNAQ/1756823163/eb79b2290aed13cdd693ebbf408b324d/ccreD7DsPJQCbUnEpyk4KA/1756833843/live/vx-origin/th-tsporthd2_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/hd-tsport3.png" group-title="DOOBALL66 SPORT",tsport3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e112.hellotherepadawan.org/v5/5UzCk8Cwr4lcJdNOuIiYxA/1756823203/0c97fa64d36e19348bb46d25cd9d737e/oTtSscoqJgmm1rQ9jE_Jdg/1756833883/live/vx-origin/dooball66-tsporthd3x_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-tsporthd3.png" group-title="DOOBALL66 SPORT",tsport3bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-tsporthd3_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/hd-tsport4.png" group-title="DOOBALL66 SPORT",tsport4
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e102.hellotherepadawan.org/v5/WG54cxPORlDxdpIBeo28Rg/1756823332/0c97fa64d36e19348bb46d25cd9d737e/jiLtL4DKdenldcWXrGqHIA/1756834012/live/vx-origin/hd-tsport4_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-tsporthd4.png" group-title="DOOBALL66 SPORT",tsport4bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e103.hellotherepadawan.org/v5/akGPF8_Bpyq002olEos6dg/1756823387/eb79b2290aed13cdd693ebbf408b324d/mkG2iehRE5oGj5A2FIFYIQ/1756834067/live/vx-origin/th-tsporthd4_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/sd-tsport5.png" group-title="DOOBALL66 SPORT",tsport5
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://la5.hellotherepadawan.org:9306/v5/hGajqAGYjPukuFq5iqMX3w/1756823451/0c97fa64d36e19348bb46d25cd9d737e/9e5Hr6Rxyk19UurjJSHUqg/1756834131/live/vx-origin/dooball66-tsport5_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-tsport5.png" group-title="DOOBALL66 SPORT",tsport5bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e109.hellotherepadawan.org/v5/WXrims3H6sA3asMFECiIFw/1756823504/eb79b2290aed13cdd693ebbf408b324d/IAvfT6KgXgOzsta90-d7Kw/1756834184/live/vx-origin/th-tsport5_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/sd-tsport7.png" group-title="DOOBALL66 SPORT",tsport7
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://la3.hellotherepadawan.org:9305/v5/ulZmQIpAfX6L1nAa_pAljg/1756823554/0c97fa64d36e19348bb46d25cd9d737e/1jQpif-gx8BqtgwqHDVhIA/1756834234/live/vx-origin/dooball66-tsport7_480/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-tsport7.png" group-title="DOOBALL66 SPORT",tsport7bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e112.hellotherepadawan.org/v5/j1fS6IvU-9S90Shg9mNHlw/1756823606/eb79b2290aed13cdd693ebbf408b324d/kVqWZlXdXnGWwXdkKA3p0g/1756834286/live/dx-origin/th-tsport7_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/hd-spotv.png" group-title="DOOBALL66 SPORT",spotv
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e108.hellotherepadawan.org/v5/pw_JJP4IOhgDf5u5e1A4GQ/1756823671/0c97fa64d36e19348bb46d25cd9d737e/NMRrfciLNhCBWvhl4hyc8w/1756834351/live/vx-origin/dooball66-spotvx_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-spotv1.png" group-title="DOOBALL66 SPORT",spotvbkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e101.hellotherepadawan.org/v5/barDFsbTqiVHB9S7KbLKKg/1756823726/eb79b2290aed13cdd693ebbf408b324d/MWW_UkRCuf01B_BQ4M1YWQ/1756834406/live/vx-origin/th-spotv1_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/hd-spotv2.png" group-title="DOOBALL66 SPORT",spotv2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e114.hellotherepadawan.org/v5/wRz4S1gAL9St0zjkp7rZgg/1756823774/0c97fa64d36e19348bb46d25cd9d737e/1OyNTEcn0Bhnc-0pBqz5kg/1756834454/live/vx-origin/dooball66-spotv2x_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-spotv2.png" group-title="DOOBALL66 SPORT",spotv2bkp
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://la2.hellotherepadawan.org:9313/v5/qFsciV0My_Cz9T18uzhUig/1756823824/eb79b2290aed13cdd693ebbf408b324d/DocK-HC0LzsesV8omx8KNQ/1756834504/live/vx-origin/th-spotv2_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/hd-tennis.png" group-title="DOOBALL66 SPORT",tennis
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e111.hellotherepadawan.org/v5/oAZlvD2rwGV_CLQlutFXgA/1756823881/0c97fa64d36e19348bb46d25cd9d737e/h9SUHRmb8YGfus4V1PEXFw/1756834561/live/dx-origin/hd-tennis_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/hd-golf2.png" group-title="DOOBALL66 SPORT",golf
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e103.hellotherepadawan.org/v5/vVymwh-gZDgDIbjUMxiQHA/1756823943/eb79b2290aed13cdd693ebbf408b324d/bqbRnlDSy7JxuRKlsnxqiQ/1756834623/live/vx-origin/hd-golf2_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/sd-tsports.png" group-title="DOOBALL66 SPORT",tsports
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e101.hellotherepadawan.org/v5/MErwdVYZG0_opEvCd5rDeQ/1756824005/0c97fa64d36e19348bb46d25cd9d737e/cX6_18U-GNqcDwD75pCVZA/1756834685/live/dx-origin/sd-tsports_480/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Grandstand_%28Oct_2024%29.png/revision/latest?cb=20241121183356" group-title="ช่องกีฬาต่างประทศ",NOW Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://dko29we9nm1rd.cloudfront.net/
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Grandstand_%28Oct_2024%29.png/revision/latest?cb=20241121183356" group-title="ช่องกีฬาต่างประทศ",Astro Grandstand
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/astrograndstand.m3u8
