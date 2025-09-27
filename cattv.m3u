@@ -473,7 +473,7 @@ https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg" group-title="ช่องกีฬาไทย",MONOMAX2
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130725.m3u8
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130726.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/PL_Mono3.jpg" group-title="ช่องกีฬาไทย",MONOMAX3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -483,7 +483,7 @@ https://cdn1.googlecdnforstreaming.live/live/monomax-3/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/PL_Mono3.jpg" group-title="ช่องกีฬาไทย",MONOMAX3
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130726.m3u8
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130730.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/PL_Mono4.jpg" group-title="ช่องกีฬาไทย",MONOMAX4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -493,7 +493,7 @@ https://cdn1.googlecdnforstreaming.live/live/monomax-4/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/PL_Mono4.jpg" group-title="ช่องกีฬาไทย",MONOMAX4
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130725.m3u8
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130716.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/PL_Mono5.jpg" group-title="ช่องกีฬาไทย",MONOMAX5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -506,24 +506,28 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX5.m3u8
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130702.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/PL_Mono6.jpg" group-title="ช่องกีฬาไทย",MONOMAX6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/PL_Mono6.jpg" group-title="ช่องกีฬาไทย",MONOMAX6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-6/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/PL_Mono6.jpg" group-title="ช่องกีฬาไทย",MONOMAX6
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130698.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/PL_Mono7.jpg" group-title="ช่องกีฬาไทย",MONOMAX7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX7.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/PL_Mono6.jpg" group-title="ช่องกีฬาไทย",MONOMAX6
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130698.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/PL_Mono7.jpg" group-title="ช่องกีฬาไทย",MONOMAX7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-7/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/PL_Mono7.jpg" group-title="ช่องกีฬาไทย",MONOMAX7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/PL_Mono7.jpg" group-title="ช่องกีฬาไทย",MONOMAX7
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130730.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/PL_Mono8.jpg" group-title="ช่องกีฬาไทย",MONOMAX8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax-8/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/PL_Mono8.jpg" group-title="ช่องกีฬาไทย",MONOMAX8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
