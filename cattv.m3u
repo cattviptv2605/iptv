@@ -206,13 +206,11 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/cinemax.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง",Rock-Entertainment
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/rockentertainmentred.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง",ROCKAction
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/rockaction.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง",Warnertv
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/warnertv.m3u8
@@ -255,7 +253,7 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truefilmasia.m3u8
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueseries.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="ช่องบันเทิง",trueASIANMORE
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueasiamore.m3u8
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/ASIANMORE.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="ช่องบันเทิง",CCM
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueccm.m3u8
