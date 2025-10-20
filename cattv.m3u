@@ -248,9 +248,8 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truefilm2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://e110.youllneverwalkalone.online/v5/i6cVmUYzJybZpqrxIyqw3Q/1760332460/7ee258af96c58dbcb65133f2f6d99bd3/AjnJ4xoyCg8yhDdH_xk5kg/1760343140/live/vx-origin/sd-moviehits_480/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueFILMASIA
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://polio-passable.youllneverwalkalone.online/v5/woJjvq2E1zAWrsr9x1bGvQ/1760925173/27d91db3021b1be1cff0d277aba14048/hFdQa5H8Aw49wDUeOLe45Q/1760935853/live/vx-origin/sd-filmasia_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truefilmasia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueSeries
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
