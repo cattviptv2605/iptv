@@ -401,7 +401,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ช่องสารคดี", Samrujlok
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=bc56968b9a82ec0cf112631c114b019a&chunkHttps=true&tmid=B0003&tpbk=qYwO6Ow6TajuKnwO&rrt=1761028853&tmod=rfk&rsid=555ebf76-47e2-4a36-aefd-6db3466817b7&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1761115253
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=366c19bea8050d8f6299a3a33f6a0f36&chunkHttps=true&tmid=B0003&tpbk=jJSMYkSPc27LGVKp&rrt=1761357397&tmod=rfk&rsid=9538451e-1545-48fb-ad06-a7cc7afcf4db&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1761443797
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="ช่องสารคดี", MySci
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/mysci.m3u8
