@@ -250,8 +250,9 @@ https://live1.stream.liveplayback.net/dookeela/truefilm2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://e110.youllneverwalkalone.online/v5/i6cVmUYzJybZpqrxIyqw3Q/1760332460/7ee258af96c58dbcb65133f2f6d99bd3/AjnJ4xoyCg8yhDdH_xk5kg/1760343140/live/vx-origin/sd-moviehits_480/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueFILMASIA
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truefilmasia.m3u8
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://brisket-arise.youllneverwalkalone.online/v5/PI4KEzndNgcDxixHd1O2Hw/1761472993/0a171beb68f1dc3a63494564b3f36862/f-HoW78sCrYRz8GpQqppZg/1761483673/live/vx-origin/sd-filmasia_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueSeries
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -356,8 +357,9 @@ https://la5.youllneverwalkalone.online:9310/v5/lE7wdsjmi3OwkxA-0Ml7tA/1760503252
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://la4.youllneverwalkalone.online:9310/v5/n8x4A0fFHN6bH6pyBHqt5g/1760503311/bfd60eb37df07ed9a6d8196827f682ca/Lc2aFGG3xsGJ5JUGateo4w/1760513991/live/vx-origin/sd-explife_480/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORESCI
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/trueexploresci.m3u8
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://brisket-arise.youllneverwalkalone.online/v5/8wT-3p-2oFAcIBxkwhQ6ow/1761473032/0a171beb68f1dc3a63494564b3f36862/fz6pOCS0pBbY2MT97zo10Q/1761483712/live/vx-origin/sd-expsci_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0" group-title="ช่องสารคดี",BBCearth
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/bbcearth.m3u8
@@ -403,7 +405,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ช่องสารคดี", Samrujlok
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=366c19bea8050d8f6299a3a33f6a0f36&chunkHttps=true&tmid=B0003&tpbk=jJSMYkSPc27LGVKp&rrt=1761357397&tmod=rfk&rsid=9538451e-1545-48fb-ad06-a7cc7afcf4db&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1761443797
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9e26f5dfcbf110cf53ff4a0b98c099f3&chunkHttps=true&tmid=B0003&tpbk=3oNZYFFrOMzvup0j&rrt=1761472941&tmod=rfk&rsid=158e3576-f40e-467c-b433-5c1b6a94fd74&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1761559340
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="ช่องสารคดี", MySci
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/mysci.m3u8
@@ -462,7 +464,7 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="ช่องกีฬาไทย",MONOMAX1
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://dreamt-upstart.youllneverwalkalone.online/v5/T3C1x9jiAvo2NLcF3l9VFQ/1761373965/715e35ab5ee727ece4f6e03491fc8b6d/uRMf_5VNnNUM4cpv9NMTkA/1761384645/live/lx-origin/dooball66-max01_720/chunks.m3u8
+https://brisket-arise.youllneverwalkalone.online/v5/-kWx4wOHjukH2F2wjOmakA/1761472754/0a171beb68f1dc3a63494564b3f36862/u-Gqtb5hZGcX-O3jFGUVXw/1761483434/live/lx-origin/dooball66-max01_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg" group-title="ช่องกีฬาไทย",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
@@ -478,7 +480,7 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg" group-title="ช่องกีฬาไทย",MONOMAX2
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://dreamt-upstart.youllneverwalkalone.online/v5/3VfS-t5iwd3J9o0wKXv5PA/1761418209/238dfeed548a18da1352f1ac94cc7ae6/QBMQ2clFRNregBao0WXvpA/1761428889/live/lx-origin/dooball66-max02_720/chunks.m3u8
+https://brisket-arise.youllneverwalkalone.online/v5/P_p5SQrgeJx1QruXf3kPkQ/1761472784/0a171beb68f1dc3a63494564b3f36862/tlucFhgS33u6mS-Aa5VDOw/1761483464/live/lx-origin/dooball66-max02_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/PL_Mono3.jpg" group-title="ช่องกีฬาไทย",MONOMAX3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
@@ -542,7 +544,7 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/PL_Mono6.jpg" group-title="ช่องกีฬาไทย",MONOMAX6
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://dreamt-upstart.youllneverwalkalone.online/v5/OmUO_1Yyw0WpB9IMl7srRg/1761374065/715e35ab5ee727ece4f6e03491fc8b6d/rpAeNdusltTdZMsRbvuSfA/1761384745/live/lx-origin/dooball66-max06_720/chunks.m3u8
+https://brisket-arise.youllneverwalkalone.online/v5/h0AFeLSNLT89dugLp5jrlA/1761472915/0a171beb68f1dc3a63494564b3f36862/Ciyi95u8KEIvRHRxklkSDg/1761483595/live/lx-origin/dooball66-max06_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/PL_Mono7.jpg" group-title="ช่องกีฬาไทย",MONOMAX7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live3.inwstream.com/
@@ -558,7 +560,7 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/PL_Mono7.jpg" group-title="ช่องกีฬาไทย",MONOMAX7
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://dreamt-upstart.youllneverwalkalone.online/v5/xtPixL6PUe2dE21DdItZag/1761374083/715e35ab5ee727ece4f6e03491fc8b6d/ORbUwt4_x6WCwI7kvNxaYw/1761384763/live/lx-origin/dooball66-max07_720/chunks.m3u8
+https://brisket-arise.youllneverwalkalone.online/v5/24WDlGlpCDSw8C5v_jtvYw/1761472880/0a171beb68f1dc3a63494564b3f36862/ZoPurCFgw6A1vgp38QlZdQ/1761483560/live/lx-origin/dooball66-max07_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/PL_Mono8.jpg" group-title="ช่องกีฬาไทย",MONOMAX8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live3.inwstream.com/
