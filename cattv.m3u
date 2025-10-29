@@ -7,7 +7,7 @@
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png" group-title="ช่องทีวีดิจิตอล",NBTHD
 #EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png" group-title="ช่องทีวีดิจิตอล",ThaiPBSHD
 #EXTVLCOPT:http-referrer=http://thaipbs-live.cdn.byteark.com/
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
@@ -142,7 +142,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0018.png" group-title="ช่องทีวีดิจิตอล",CH7HD
 #EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล",PPTVHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
