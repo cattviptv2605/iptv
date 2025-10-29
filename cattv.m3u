@@ -6,8 +6,8 @@
 #KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png" group-title="ช่องทีวีดิจิตอล",NBTHD
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_NBTSD_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png" group-title="ช่องทีวีดิจิตอล",ThaiPBSHD
 #EXTVLCOPT:http-referrer=http://thaipbs-live.cdn.byteark.com/
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
@@ -36,8 +36,8 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
 #KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png"group-title="ช่องทีวีดิจิตอล",T-SPorts7
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="ช่องทีวีดิจิตอล",TPTV
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="ช่องทีวีดิจิตอล",TPTV
@@ -51,8 +51,8 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
 #KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ช่องทีวีดิจิตอล",TNN16
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_TNN24_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ช่องทีวีดิจิตอล",JKN18
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=333de6034a1d45fe91c829539caf1149:2710efc048ca44bba4c2b57397989a26
@@ -65,8 +65,8 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 #KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/22_Nation_2025.png" group-title="ช่องทีวีดิจิตอล",NationTV
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_NATION_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0015_R.png" group-title="ช่องทีวีดิจิตอล",WorkpointTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
@@ -78,8 +78,8 @@ https://global-media.sooplive.com/live/workpoint/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่องทีวีดิจิตอล",True4U
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="ช่องทีวีดิจิตอล",GMM25
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
@@ -107,49 +107,49 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 #KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="ช่องทีวีดิจิตอล",MCOTHD
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_MCOTHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ช่องทีวีดิจิตอล",ONE31
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ช่องทีวีดิจิตอล",ONE31
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_GMMONE_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="ช่องทีวีดิจิตอล",ThairathTVHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="ช่องทีวีดิจิตอล",ThairathTVHD
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_THAIRATH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO3HD.PNG" group-title="ช่องทีวีดิจิตอล",CH3HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO3HD.PNG" group-title="ช่องทีวีดิจิตอล",CH3HD
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_3HD_720p/3HDChunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="ช่องทีวีดิจิตอล",AmarinTVHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="ช่องทีวีดิจิตอล",AmarinTVHD
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_AMARINHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0018.png" group-title="ช่องทีวีดิจิตอล",CH7HD
 #EXTVLCOPT:http-referrer=https://live-cdn-hwc.ch7.com
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0018.png" group-title="ช่องทีวีดิจิตอล",CH7HD
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล",PPTVHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล",PPTVHD
-#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
-https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG" group-title="ช่องทีวีดิจิตอล",TopNewsHD
 http://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="ช่องทีวีดิจิตอล",News1
@@ -603,18 +603,16 @@ https://e110.youllneverwalkalone.online/v5/cl77wcfCk7mk1vxmhDro1w/1761374119/715
 https://cdn1.googlecdnforstreaming.live/live/tpf3/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1664499681.png" group-title="ช่องกีฬาไทย",TruePremierFootball3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/f3jvklzqk7r4QaE6SCcFPA/1761374190/715e35ab5ee727ece4f6e03491fc8b6d/NHD9_BpcwywP1PSdncwbhg/1761384870/live/lx-origin/epl-3_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1664499692.png" group-title="ช่องกีฬาไทย",TruePremierFootball4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/tpf4/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1664499692.png" group-title="ช่องกีฬาไทย",TruePremierFootball4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://e110.youllneverwalkalone.online/v5/3IvTtAAS_KKSvB686DbM1g/1761374168/715e35ab5ee727ece4f6e03491fc8b6d/55sWUdjb-6NTRuJHhOti0g/1761384848/live/lx-origin/epl-4_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1664499700.png" group-title="ช่องกีฬาไทย",TruePremierFootball5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -644,9 +642,8 @@ https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truesport5.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truesport7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="ช่องกีฬาไทย",BeinSport1
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://brisket-arise.youllneverwalkalone.online/v5/3F2vXOknTJA4WZoc0-Ebaw/1761483819/a523850b6e0c201af21ac0a0393c5eeb/C48Uslfp4nArOJadlw516g/1761494499/live/dx-origin/dooball66-bein1x_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="ช่องกีฬาไทย",BeinSport1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -656,9 +653,8 @@ https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truebeinsport1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png" group-title="ช่องกีฬาไทย",BeinSport2
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://brisket-arise.youllneverwalkalone.online/v5/dF8rufwHl5cM3K937FA9vg/1761483919/a523850b6e0c201af21ac0a0393c5eeb/nORKeAPDL8aHYHq2wGh0JQ/1761494599/live/vx-origin/dooball66-bein2x_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png" group-title="ช่องกีฬาไทย",BeinSport2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -668,9 +664,8 @@ https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truebeinsport2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="ช่องกีฬาไทย",BeinSport3
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://brisket-arise.youllneverwalkalone.online/v5/T5VB-ks8m8DNa2xWjB5FVA/1761483937/a523850b6e0c201af21ac0a0393c5eeb/TVZqcj5tVPR_XloCn17gXw/1761494617/live/vx-origin/dooball66-bein3x_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_epl3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="ช่องกีฬาไทย",BeinSport3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -681,40 +676,40 @@ https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8
 https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truebeinsport3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png" group-title="ช่องกีฬาไทย",BeinSport4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/bein4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_epl4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png" group-title="ช่องกีฬาไทย",BeinSport4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein4/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_5.png" group-title="ช่องกีฬาไทย",BeinSport5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/bein5/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_epl5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_5.png" group-title="ช่องกีฬาไทย",BeinSport5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein5/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_6.png" group-title="ช่องกีฬาไทย",BeinSport6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/bein6/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_epl6_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_6.png" group-title="ช่องกีฬาไทย",BeinSport6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein6/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_7.png" group-title="ช่องกีฬาไทย",BeinSport7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/bein7/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_epl7_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_7.png" group-title="ช่องกีฬาไทย",BeinSport7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein7/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_8.png" group-title="ช่องกีฬาไทย",BeinSport8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/bein8/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_epl8_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1724241287.png" group-title="ช่องกีฬาไทย",BeinSport9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
