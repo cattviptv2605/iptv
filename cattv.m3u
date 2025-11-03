@@ -235,17 +235,21 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/actionhollywoodmovies.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueTHAIFILM
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/truethaifilm.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball6666.com/
+https://radish-entourage.neoistheone.online:9303/v5/b2VHXjYbXPMaIsaoK8Gapw/1762140392/8dcfcafda813422bbc320e5ab5a338e5/JkskPzqJGQ8lioXX6iE89w/1762151072/live/dx-origin/sd-thaifilm_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM1
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball6666.com/
+https://radish-entourage.neoistheone.online:9303/v5/cqcua6BXVj8KujVtRppZ7A/1762140417/8dcfcafda813422bbc320e5ab5a338e5/7lPMiCejPnisufipfx4ZUw/1762151097/live/dx-origin/hd-tfilm_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM2
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm2.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball6666.com/
+https://radish-entourage.neoistheone.online:9303/v5/cqcua6BXVj8KujVtRppZ7A/1762140417/8dcfcafda813422bbc320e5ab5a338e5/7lPMiCejPnisufipfx4ZUw/1762151097/live/dx-origin/hd-tfilm2_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueMOVIEHITS
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/truemoviehits.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball6666.com/
+https://tropics-corset.neoistheone.online:9307/v5/t6efjrFYZBKMW832-cSD-w/1762140470/2680ddb47ff6ff592cc61b40d1977583/0Obz9yO_CvKJoGbk2tpQVg/1762151150/live/vx-origin/sd-moviehits_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueFILMASIA
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilmasia.m3u8
