@@ -1,4 +1,4 @@
-#EXTM3U url=https://raw.githubusercontent.com/cattviptv2605/iptv/main/cattv.m3u
+◌ั#EXTM3U url=https://raw.githubusercontent.com/cattviptv2605/iptv/main/cattv.m3u
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png" group-title="ช่องทีวีดิจิตอล",NBTHD
@@ -242,16 +242,13 @@ https://github.com/cattviptv2605/movies/raw/refs/heads/main/truethaifilm.m3u8
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 https://tropics-corset.neoistheone.online:9307/v5/3SeIv36dPdNUWOaVp568Nw/1762497192/90af5157a297c143d9d2b544c8cbb208/wZ0V4mpYLAqL_E_z04tHTg/1762507872/live/dx-origin/hd-tfilm_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-https://radish-entourage.neoistheone.online:9303/v5/y9sZ3qCR53kinJKv0GyV-w/1762497236/90af5157a297c143d9d2b544c8cbb208/CColkoHbX64UU_8A6iRFhw/1762507916/live/dx-origin/hd-tfilm2_720/chunks.m3u8
+http://portal.geniptv.com:8080//live/dmtndmtnkimo/a7GPMeArdf/9362.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueMOVIEHITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
-https://tropics-corset.neoistheone.online:9307/v5/Uq4y3B___PIJw4p1ZrXYHQ/1762497266/90af5157a297c143d9d2b544c8cbb208/hf1evWohw7Gb0VRppXgDOg/1762507946/live/vx-origin/sd-moviehits_720/chunks.m3u8
+https://tropics-corset.neoistheone.online:9307/v5/Uq4y3B___PIJw4p1ZrXYHQ/1762497266/90af5157a297c143d9d2b544c8cbb208/hf1evWohw7Gb0VRppXgDOg/1762507946/live/vx-origin/sd-moviehits_720/
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueFILMASIA
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilmasia.m3u8
+http://portal.geniptv.com:8080//live/dmtndmtnkimo/a7GPMeArdf/9363.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueSeries
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries.m3u8
