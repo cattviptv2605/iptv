@@ -177,6 +177,9 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง", HBOHD
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง", HBOHD
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/cattviptv2605/movies/refs/heads/main/hbo.html
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง", HBOHits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
