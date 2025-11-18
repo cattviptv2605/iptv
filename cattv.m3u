@@ -52,14 +52,14 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ช่องทีวีดิจิตอล",TNN16
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/digital/raw/refs/heads/main/TNN24.m3u8
+https://github.com/cattviptv2605/digital/raw/refs/heads/main/TNN16.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ช่องทีวีดิจิตอล",JKN18
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=333de6034a1d45fe91c829539caf1149:2710efc048ca44bba4c2b57397989a26
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/18/18.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ช่องทีวีดิจิตอล",JKN18
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/digital/raw/refs/heads/main/hbo.m3u8
+https://github.com/cattviptv2605/digital/raw/refs/heads/main/JKN18.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/22_Nation_2025.png" group-title="ช่องทีวีดิจิตอล",NationTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
