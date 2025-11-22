@@ -1223,6 +1223,9 @@ https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysportde8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" group-title="ช่องกีฬาต่างประทศ",SkySportDE9
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysportde9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/epl3ab3cc58e983e64a.png" group-title="ช่องกีฬาต่างประทศ", SkyEPL_NZ
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skyepl_nz.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport1.png" group-title="ช่องกีฬาต่างประทศ", SkySport1_NZ
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport1_nz.m3u8
@@ -1244,9 +1247,6 @@ https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport6_nz.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport7.png" group-title="ช่องกีฬาต่างประทศ", SkySport7_NZ
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport7_nz.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport8.png" group-title="ช่องกีฬาต่างประทศ", SkySport8_NZ
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport8_nz.m3u8
 #EXTINF:-1 tvg-logo="http://smartstreams.org:25461/images/a291bc6983e8c863935c00407e5ededb.png" group-title="ช่องกีฬาต่างประทศ", SUPERSPORT ACTION
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportaction.m3u8
