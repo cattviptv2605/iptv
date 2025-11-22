@@ -316,7 +316,7 @@ https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discovery.m3u8
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discoveryasia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่องสารคดี",History
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/documentary/raw/refs/heads/main/history.m3u8
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/truehistory.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C19N84f9/IMG-2447.png" group-title="ช่องสารคดี",History 2
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="ช่องสารคดี",Animal Planet
@@ -1367,6 +1367,9 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 https://github.com/cattviptv2605/cartoon/raw/refs/heads/main/boomeramg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang-cartoon-th.png" group-title="ช่องการ์ตูน",Boomerang CARTOON
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="ช่องการ์ตูน",Dreamworks
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/cartoon/raw/refs/heads/main/dreamworks.m3u8
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://dookeela.live/uploads/1704038567.png",ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
