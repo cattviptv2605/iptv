@@ -398,6 +398,9 @@ https://monomax-d1yqi0.cdn.byteark.com/fleetstream/ALURE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1741273735.png" group-title="ช่องสารคดี" RUSH Stories
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 https://monomax-bl9d80.cdn.byteark.com/fleetstream/RUSH/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thaichaiyo.tv/wp-content/uploads/2022/11/cropped-Logo-TCY.png" group-title="ช่องสารคดี" ThaiChaiyo
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/thaichaiyo.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="ช่องกีฬาไทย",MONOMAX1
