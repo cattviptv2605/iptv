@@ -237,14 +237,12 @@ https://github.com/cattviptv2605/movies/raw/refs/heads/main/truethaifilm.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/truethaifilm1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM1
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm.m3u8
+http://45.144.165.187:8080/live/playid/2535/67.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM1
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm1.m3u8
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm1-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM2
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm2.m3u8
+http://45.144.165.187:8080/live/playid/2535/79.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM2
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm2.m3u8
@@ -364,14 +362,12 @@ http://84.17.40.25/Animal_Planet/index.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/animalplanet.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี",trueEXPLOREWILD
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexplorewild.m3u8
+http://45.144.165.187:8080/live/playid/2535/49.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี",trueEXPLOREWILD
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexplorewild1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORELIFE
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexplorelife.m3u8
+http://45.144.165.187:8080/live/playid/2535/52.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORELIFE
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexplorelife1.m3u8
@@ -379,8 +375,7 @@ https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexplorelife
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexploresci.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORESCI
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexploresci1.m3u8
+http://45.144.165.187:8080/live/playid/2535/51.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0" group-title="ช่องสารคดี",BBCearth
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/bbcearth.m3u8
