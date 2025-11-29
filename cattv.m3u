@@ -1,170 +1,170 @@
 #EXTM3U url=https://raw.githubusercontent.com/cattviptv2605/iptv/main/cattv.m3u
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png" group-title="ช่องทีวีดิจิตอล",NBTHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png" group-title="ช่องทีวีดิจิตอล", NBT
 #EXTVLCOPT:http-referrer=https://cdn-edge.iiptvcdn.com
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w884800294_b3128000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png" group-title="ช่องทีวีดิจิตอล",NBTHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png" group-title="ช่องทีวีดิจิตอล", NBT
 http://45.144.166.242:1935/NBT/t3_nbt/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png" group-title="ช่องทีวีดิจิตอล",ThaiPBSHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png" group-title="ช่องทีวีดิจิตอล", ThaiPBS
 #EXTVLCOPT:http-referrer=http://thaipbs-live.cdn.byteark.com/
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png" group-title="ช่องทีวีดิจิตอล",ThaiPBSHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png" group-title="ช่องทีวีดิจิตอล", ThaiPBS
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/digital/raw/refs/heads/main/ThaiPBS.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="ช่องทีวีดิจิตอล",ALTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="ช่องทีวีดิจิตอล", ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="ช่องทีวีดิจิตอล",ALTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="ช่องทีวีดิจิตอล", ALTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e98456bcbea44b7ad05831387e364ef:3d14fd4f9d3149a79b35a7124fccbd67
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/4/4.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://d198sf0nbhx18q.cloudfront.net/web/images/logo/logo.png" group-title="ช่องทีวีดิจิตอล",VIPA
+#EXTINF:-1 tvg-id="" tvg-logo="https://d198sf0nbhx18q.cloudfront.net/web/images/logo/logo.png" group-title="ช่องทีวีดิจิตอล", VIPA
 http://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/profile_1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ch5new.logo.png" group-title="ช่องทีวีดิจิตอล",CH5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ch5new.logo.png" group-title="ช่องทีวีดิจิตอล", CH5 
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ch5new.logo.png" group-title="ช่องทีวีดิจิตอล",CH5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ch5new.logo.png" group-title="ช่องทีวีดิจิตอล", CH5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png"group-title="ช่องทีวีดิจิตอล",T-SPorts7
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png"group-title="ช่องทีวีดิจิตอล", T-SPorts7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png"group-title="ช่องทีวีดิจิตอล",T-SPorts7
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png"group-title="ช่องทีวีดิจิตอล", T-SPorts7
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 https://gmmztv.v2h-cdn.com/ffef/gmmz-tsport7.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="ช่องทีวีดิจิตอล",TPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="ช่องทีวีดิจิตอล", TPTV
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="ช่องทีวีดิจิตอล",TPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="ช่องทีวีดิจิตอล", TPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ช่องทีวีดิจิตอล",TNN16
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ช่องทีวีดิจิตอล", TNN16
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ช่องทีวีดิจิตอล",TNN16
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ช่องทีวีดิจิตอล", TNN16
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/digital/raw/refs/heads/main/TNN16.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ช่องทีวีดิจิตอล",JKN18
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ช่องทีวีดิจิตอล", JKN18
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=333de6034a1d45fe91c829539caf1149:2710efc048ca44bba4c2b57397989a26
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/18/18.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ช่องทีวีดิจิตอล",JKN18
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ช่องทีวีดิจิตอล", JKN18
 http://45.144.166.242:1935/JKN/t3_jkn/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/22_Nation_2025.png" group-title="ช่องทีวีดิจิตอล",NationTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/22_Nation_2025.png" group-title="ช่องทีวีดิจิตอล", NationTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/22_Nation_2025.png" group-title="ช่องทีวีดิจิตอล",NationTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/22_Nation_2025.png" group-title="ช่องทีวีดิจิตอล", NationTV
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/digital/raw/refs/heads/main/Nationtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0015_R.png" group-title="ช่องทีวีดิจิตอล",WorkpointTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0015_R.png" group-title="ช่องทีวีดิจิตอล", WorkpointTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0015_R.png" group-title="ช่องทีวีดิจิตอล",WorkpointTVHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0015_R.png" group-title="ช่องทีวีดิจิตอล", WorkpointTVHD
 https://global-media.sooplive.com/live/workpoint/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่องทีวีดิจิตอล",True4U
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่องทีวีดิจิตอล", True4U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่องทีวีดิจิตอล",True4U
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่องทีวีดิจิตอล", True4U
 #EXTVLCOPT:http-referrer=https://iptv36.vercel.app/
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="ช่องทีวีดิจิตอล",GMM25
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="ช่องทีวีดิจิตอล", GMM25
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="ช่องทีวีดิจิตอล",GMM25
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="ช่องทีวีดิจิตอล", GMM25
 https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0006.png" group-title="ช่องทีวีดิจิตอล",CH8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0006.png" group-title="ช่องทีวีดิจิตอล", CH8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0006.png" group-title="ช่องทีวีดิจิตอล",CH8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0006.png" group-title="ช่องทีวีดิจิตอล", CH8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png" group-title="ช่องทีวีดิจิตอล",MONO29
+#EXTINF:-1 tvg-id="" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png" group-title="ช่องทีวีดิจิตอล", MONO29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png" group-title="ช่องทีวีดิจิตอล",MONO29FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png" group-title="ช่องทีวีดิจิตอล", MONO29FHD
 https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="ช่องทีวีดิจิตอล", MonoPlusHD
 https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/1080p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="ช่องทีวีดิจิตอล",MCOTHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="ช่องทีวีดิจิตอล", MCOT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="ช่องทีวีดิจิตอล",MCOTHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="ช่องทีวีดิจิตอล", MCOT
 http://45.136.252.97:8081/app/mcothd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ช่องทีวีดิจิตอล",ONE31
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ช่องทีวีดิจิตอล", ONE31
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ช่องทีวีดิจิตอล",ONE31
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ช่องทีวีดิจิตอล", ONE31
 http://45.136.252.97:8081/app/one31/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="ช่องทีวีดิจิตอล",ThairathTVHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="ช่องทีวีดิจิตอล", ThairathTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="ช่องทีวีดิจิตอล",ThairathTVHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="ช่องทีวีดิจิตอล", ThairathTV
 http://45.136.252.97:8081/app/thairathtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO3HD.PNG" group-title="ช่องทีวีดิจิตอล",CH3HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO3HD.PNG" group-title="ช่องทีวีดิจิตอล", CH3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO3HD.PNG" group-title="ช่องทีวีดิจิตอล",CH3HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO3HD.PNG" group-title="ช่องทีวีดิจิตอล", CH3
 http://45.136.252.97:8081/app/ch3hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="ช่องทีวีดิจิตอล",AmarinTVHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="ช่องทีวีดิจิตอล", AmarinTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="ช่องทีวีดิจิตอล",AmarinTVHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="ช่องทีวีดิจิตอล", AmarinTV
 http://45.136.252.97:8081/app/amarintv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0018.png" group-title="ช่องทีวีดิจิตอล",CH7HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0018.png" group-title="ช่องทีวีดิจิตอล", CH7
 #EXTVLCOPT:http-referrer=https://live-cdn-hwc.ch7.com
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0018.png" group-title="ช่องทีวีดิจิตอล",CH7HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0018.png" group-title="ช่องทีวีดิจิตอล", CH7
 http://45.136.252.97:8081/app/ch7hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล",PPTVHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล", PPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล",PPTVHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล", PPTV
 http://45.144.166.242:1935/PPTV/t3_pptv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG" group-title="ช่องทีวีดิจิตอล",TopNewsHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG" group-title="ช่องทีวีดิจิตอล", TopNews
 http://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="ช่องทีวีดิจิตอล",News1
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="ช่องทีวีดิจิตอล", News1
 http://server1.streamssl.com/stream/news1_mid.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://policetv.tv/wp-content/uploads/elementor/thumbs/cropped-LOGO-POLICE-2019_512-qvss6q704vu39pig4g3aipjuvm1nbvj9ewxq7olxv4.png" group-title="ช่องทีวีดิจิตอล",PoliceTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://policetv.tv/wp-content/uploads/elementor/thumbs/cropped-LOGO-POLICE-2019_512-qvss6q704vu39pig4g3aipjuvm1nbvj9ewxq7olxv4.png" group-title="ช่องทีวีดิจิตอล", PoliceTV
 http://54c241893bf39.streamlock.net:1935/policetv/policetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://13livetv.com/asset/logo-512.png" group-title="ช่องทีวีดิจิตอล",13สยามไท
+#EXTINF:-1 tvg-id="" tvg-logo="https://13livetv.com/asset/logo-512.png" group-title="ช่องทีวีดิจิตอล", 13สยามไท
 https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/ss/suwannabhumi_tv.png" group-title="ช่องทีวีดิจิตอล", สุวรรณภูมิทีวี
 http://live.bangkokstream.com:19370/suwannabhumi/suwannabhumi.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNlHC8AT7sZOLzCqWT3c-_UzBMH_iQt_7n6qpI5UmkKTfC113-iVTej3Hr2BI1PAPi6A&usqp=CAU"group-title="ช่องทีวีดิจิตอล",NBT ภาคกลาง
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNlHC8AT7sZOLzCqWT3c-_UzBMH_iQt_7n6qpI5UmkKTfC113-iVTej3Hr2BI1PAPi6A&usqp=CAU"group-title="ช่องทีวีดิจิตอล", NBT ภาคกลาง
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id=""tvg-logo="https://nbtkhonkaen.prd.go.th/th/file/get/type/thumbnail/file/202502058fa150a9a1e6f99ae474605fe43d742b141732.png"group-title="ช่องทีวีดิจิตอล",NBT ภาคอีสาน
+#EXTINF:-1 tvg-id=""tvg-logo="https://nbtkhonkaen.prd.go.th/th/file/get/type/thumbnail/file/202502058fa150a9a1e6f99ae474605fe43d742b141732.png"group-title="ช่องทีวีดิจิตอล", NBT ภาคอีสาน
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Jx8WNuSwNQXeMrzQvItTToEgW0w42k4SHA&s"group-title="ช่องทีวีดิจิตอล",NBT ภาคเหนือ
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Jx8WNuSwNQXeMrzQvItTToEgW0w42k4SHA&s"group-title="ช่องทีวีดิจิตอล", NBT ภาคเหนือ
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://yt3.googleusercontent.com/-d8t7MX6bpAbCH3VAvsVpkqZvKfN2d5XR9fFyGosPW-cJ5bBJ4EkxgyFmEIV_TO_TXli2XeGTA=s900-c-k-c0x00ffffff-no-rj"group-title="ช่องทีวีดิจิตอล",NBT ภาคใต้
+#EXTINF:-1 tvg-id=""tvg-logo="https://yt3.googleusercontent.com/-d8t7MX6bpAbCH3VAvsVpkqZvKfN2d5XR9fFyGosPW-cJ5bBJ4EkxgyFmEIV_TO_TXli2XeGTA=s900-c-k-c0x00ffffff-no-rj"group-title="ช่องทีวีดิจิตอล", NBT ภาคใต้
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง", HBOHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง", HBO
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง", HBOHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง", HBO
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbo1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง", HBOHits
@@ -185,229 +185,229 @@ https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbofamily.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="ช่องบันเทิง", HBOFamily
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbofamily1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="ช่องบันเทิง",Cinemax
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="ช่องบันเทิง", Cinemax
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/cinemax.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="ช่องบันเทิง",Cinemax
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="ช่องบันเทิง", Cinemax
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/cinemax1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง",Rock-Entertainment
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง", Rock-Entertainment
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/rockentertainmentred.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง",Rock-Entertainment
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="ช่องบันเทิง", Rock-Entertainment
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/rockentertainmentred1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง",ROCKAction
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง", ROCKAction
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/rockaction.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง",ROCKAction
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง", ROCKAction
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/rockaction1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง",Warnertv
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง", Warnertv
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/warnertv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง",Warnertv
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง", Warnertv
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/warnertv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="ช่องบันเทิง",Axn
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="ช่องบันเทิง", Axn
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueaxn.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="ช่องบันเทิง",Axn
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="ช่องบันเทิง", Axn
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueaxn1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="ช่องบันเทิง",Hits
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="ช่องบันเทิง", Hits
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/hits.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png" group-title="ช่องบันเทิง",HitsMovies
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png" group-title="ช่องบันเทิง", HitsMovies
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/hitsmovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy_X2qpPKNBSvKfkdLddNWukebkdOnm7720Q&s" group-title="ช่องบันเทิง",Hitsnow
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy_X2qpPKNBSvKfkdLddNWukebkdOnm7720Q&s" group-title="ช่องบันเทิง", Hitsnow
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/hitsnow.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="ช่องบันเทิง",Action Hollywood Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="ช่องบันเทิง", Action Hollywood Movies
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/actionhollywoodmovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/400px-Paramount_Network.svg.png" group-title="ช่องบันเทิง",Paramountnetwork
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/400px-Paramount_Network.svg.png" group-title="ช่องบันเทิง", Paramountnetwork
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/paramountnetwork.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueTHAIFILM
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง", trueTHAIFILM
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/truethaifilm.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueTHAIFILM
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง", trueTHAIFILM
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/truethaifilm1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM1
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง", trueFILM1
 http://6395online.com:8080/live/iptv591@gmail.com/456672/142.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM1
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง", trueFILM1
 http://45.144.165.187:8080/live/playid/2535/67.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM2
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง", trueFILM2
 http://154.215.14.8:8080/live/iptv591@gmail.com/456672/143.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM2
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง", trueFILM2
 http://45.144.165.187:8080/live/playid/2535/79.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueMOVIEHITS
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง", trueMOVIEHITS
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/truemoviehits.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueMOVIEHITS
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง", trueMOVIEHITS
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/truemoviehits.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueFILMASIA
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง", trueFILMASIA
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilmasia.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueFILMASIA
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง", trueFILMASIA
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilmasia1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueSeries
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง", trueSeries
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueSeries
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง", trueSeries
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="ช่องบันเทิง",trueASIANMORE
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="ช่องบันเทิง", trueASIANMORE
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueasianmore.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="ช่องบันเทิง",trueASIANMORE
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="ช่องบันเทิง", trueASIANMORE
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueasianmore1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="ช่องบันเทิง",CCM
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="ช่องบันเทิง", CCM
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueccm.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="ช่องบันเทิง",CCM
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="ช่องบันเทิง", CCM
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueccm1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png" group-title="ช่องบันเทิง",AsianHits
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png" group-title="ช่องบันเทิง", AsianHits
 https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/1080p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png" group-title="ช่องบันเทิง",AsianHits
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png" group-title="ช่องบันเทิง", AsianHits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="ช่องบันเทิง",Dragon
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="ช่องบันเทิง", Dragon
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/dragon.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png" group-title="ช่องบันเทิง",TVBThai
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png" group-title="ช่องบันเทิง", TVBThai
 http://154.215.14.8:8080/live/iptv591@gmail.com/456672/150.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7c07f020-2515-11ee-ac34-39c66cab230f_webp_original.webp" group-title="ช่องบันเทิง",Cool Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7c07f020-2515-11ee-ac34-39c66cab230f_webp_original.webp" group-title="ช่องบันเทิง", Cool Channel
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png" group-title="ช่องบันเทิง",Thainews
+#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png" group-title="ช่องบันเทิง", Thainews
 https://live.thaitvstream.com/play/thainews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png" group-title="ช่องบันเทิง",Siamnewstv
+#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png" group-title="ช่องบันเทิง", Siamnewstv
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/gochannel/gochannel.png" group-title="ช่องบันเทิง",Gochannel
+#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/gochannel/gochannel.png" group-title="ช่องบันเทิง", Gochannel
 https://live2.thaitvstream.com/play/gochannel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png" group-title="ช่องบันเทิง",Chiangrai
+#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png" group-title="ช่องบันเทิง", Chiangrai
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.i-pic.info/i/6CRS654262.png" group-title="ช่องบันเทิง",MounchonTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.i-pic.info/i/6CRS654262.png" group-title="ช่องบันเทิง", MounchonTv
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/medianews/medianews.png" group-title="ช่องบันเทิง",Medianews
+#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/medianews/medianews.png" group-title="ช่องบันเทิง", Medianews
 https://live1.thaitvstream.com/play/medianews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCkJwV5fFglCrxrl5GV0yi0Z8C4pu2mLBNYCV3dQ9CNmOxv61tx6Xs3lDkCusrHVNnKTQ&usqp=CAU" group-title="ช่องบันเทิง",Channel8thailand
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCkJwV5fFglCrxrl5GV0yi0Z8C4pu2mLBNYCV3dQ9CNmOxv61tx6Xs3lDkCusrHVNnKTQ&usqp=CAU" group-title="ช่องบันเทิง", Channel8thailand
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/zeenung.png" group-title="ช่องบันเทิง",Zee Nung
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/zeenung.png" group-title="ช่องบันเทิง", Zee Nung
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง",movies1
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง", movies1
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/H-Channel
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง",movies2
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง", movies2
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://49.0.64.96:8007/Cartoonumi
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง",movies3
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง", movies3
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://49.0.64.96:8007/SERIES
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง",movies4
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง", movies4
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/IZAA
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง",movies5
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง", movies5
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://49.0.64.96:8007/PING
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง",movies6
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง", movies6
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/movies6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง",movies7
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง", movies7
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/movies7.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง",movies8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง", movies8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/movies8.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง",movies9
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง", movies9
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/movies9.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="ช่องสารคดี",Discovery
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="ช่องสารคดี", Discovery
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discovery.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="ช่องสารคดี",Discovery
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="ช่องสารคดี", Discovery
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discovery1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี",DiscoveryAsia
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี", DiscoveryAsia
 http://154.215.14.8:8080/live/iptv591@gmail.com/456672/274.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี",DiscoveryAsia
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี", DiscoveryAsia
 http://45.144.165.187:8080/live/playid/2535/55.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่องสารคดี",History
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่องสารคดี", History
 http://6395online.com:8080/live/iptv591@gmail.com/456672/277.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่องสารคดี",History
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่องสารคดี", History
 http://45.144.165.187:8080/live/playid/2535/48.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C19N84f9/IMG-2447.png" group-title="ช่องสารคดี",H2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C19N84f9/IMG-2447.png" group-title="ช่องสารคดี", H2
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C19N84f9/IMG-2447.png" group-title="ช่องสารคดี",H2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C19N84f9/IMG-2447.png" group-title="ช่องสารคดี", H2
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/h2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="ช่องสารคดี",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="ช่องสารคดี", Animal Planet
 http://84.17.40.25/Animal_Planet/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="ช่องสารคดี",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="ช่องสารคดี", Animal Planet
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/animalplanet.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี",trueEXPLOREWILD
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี", trueEXPLOREWILD
 http://154.215.14.8:8080/live/iptv591@gmail.com/456672/285.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี",trueEXPLOREWILD
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี", trueEXPLOREWILD
 http://45.144.165.187:8080/live/playid/2535/49.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORELIFE
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี", trueEXPLORELIFE
 http://154.215.14.8:8080/live/iptv591@gmail.com/456672/284.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORELIFE
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี", trueEXPLORELIFE
 http://45.144.165.187:8080/live/playid/2535/52.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORESCI
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี", trueEXPLORESCI
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexploresci.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",trueEXPLORESCI
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี", trueEXPLORESCI
 http://154.215.14.8:8080/live/iptv591@gmail.com/456672/283.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0" group-title="ช่องสารคดี",BBCearth
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0" group-title="ช่องสารคดี", BBCearth
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/bbcearth.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0" group-title="ช่องสารคดี",BBCearth
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0" group-title="ช่องสารคดี", BBCearth
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/bbcearth1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg" group-title="ช่องสารคดี",BBCLifestyle
+#EXTINF:-1 tvg-id="" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg" group-title="ช่องสารคดี", BBCLifestyle
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/bbclifestyle.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg" group-title="ช่องสารคดี",BBCLifestyle
+#EXTINF:-1 tvg-id="" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg" group-title="ช่องสารคดี", BBCLifestyle
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/bbclifestyle1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1716366217.png" group-title="ช่องสารคดี",Natgeographic
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1716366217.png" group-title="ช่องสารคดี", Natgeographic
 #EXTVLCOPT:http-referrer=https://fl31.moveonjoy.com/
 https://fl31.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1716366217.png" group-title="ช่องสารคดี",Natgeographic
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1716366217.png" group-title="ช่องสารคดี", Natgeographic
 http://154.215.14.8:8080/live/iptv591@gmail.com/456672/288575.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1716363369.png" group-title="ช่องสารคดี",Natgeowild
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1716363369.png" group-title="ช่องสารคดี", Natgeowild
 #EXTVLCOPT:http-referrer=https://fl31.moveonjoy.com/
 https://fl31.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="ช่องสารคดี",Crime-Investigation
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="ช่องสารคดี", Crime-Investigation
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/crime-Investigation.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.multichannelsasia.com/wp-content/uploads/2015/11/OC_Logo2017_Primary-e1492590279375.png" group-title="ช่องสารคดี",OutDoor
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.multichannelsasia.com/wp-content/uploads/2015/11/OC_Logo2017_Primary-e1492590279375.png" group-title="ช่องสารคดี", OutDoor
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/outdoor.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.multichannelsasia.com/wp-content/uploads/2015/11/OC_Logo2017_Primary-e1492590279375.png" group-title="ช่องสารคดี",OutDoor
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.multichannelsasia.com/wp-content/uploads/2015/11/OC_Logo2017_Primary-e1492590279375.png" group-title="ช่องสารคดี", OutDoor
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/outdoor1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1720781589.png" group-title="ช่องสารคดี",LifeTime
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1720781589.png" group-title="ช่องสารคดี", LifeTime
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/lifetime.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/01/c028a650-226a-11ec-8746-bdb6cf7b14ca_webp_320.webp" group-title="ช่องสารคดี",Lovenature
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/01/c028a650-226a-11ec-8746-bdb6cf7b14ca_webp_320.webp" group-title="ช่องสารคดี", Lovenature
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/lovenature.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/01/c028a650-226a-11ec-8746-bdb6cf7b14ca_webp_320.webp" group-title="ช่องสารคดี",Lovenature
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/01/c028a650-226a-11ec-8746-bdb6cf7b14ca_webp_320.webp" group-title="ช่องสารคดี", Lovenature
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/lovenature1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1714101765.png" group-title="ช่องสารคดี",DMAX
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1714101765.png" group-title="ช่องสารคดี", DMAX
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/dmax.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" group-title="ช่องสารคดี", trueX-ZYTE
@@ -428,11 +428,11 @@ https://github.com/cattviptv2605/documentary/raw/refs/heads/main/tlc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png" group-title="ช่องสารคดี", TLC
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/tlc1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="ช่องสารคดี",Food Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="ช่องสารคดี", Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="ช่องสารคดี",Food Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="ช่องสารคดี", Food Network
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/foodnetwork.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ช่องสารคดี", Samrujlok
@@ -492,10 +492,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-sam
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1731057748.png" group-title="ช่องสารคดี",Alure Channel
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 https://monomax-d1yqi0.cdn.byteark.com/fleetstream/ALURE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1741273735.png" group-title="ช่องสารคดี" RUSH Stories
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1741273735.png" group-title="ช่องสารคดี"RUSH Stories
 #EXTVLCOPT:http-referrer=https://livesod365.info/
 https://monomax-bl9d80.cdn.byteark.com/fleetstream/RUSH/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://thaichaiyo.tv/wp-content/uploads/2022/11/cropped-Logo-TCY.png" group-title="ช่องสารคดี" ThaiChaiyo
+#EXTINF:-1 tvg-id="" tvg-logo="https://thaichaiyo.tv/wp-content/uploads/2022/11/cropped-Logo-TCY.png" group-title="ช่องสารคดี"ThaiChaiyo
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/thaichaiyo.m3u8
 
