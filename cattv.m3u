@@ -517,8 +517,7 @@ https://www.livedoomovies.com/Monomax_PL_1HD/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="ช่องกีฬาไทย",MONOMAX1 (keela7)
-#EXTVLCOPT:http-referrer=https://keela7.com/
-https://keela7.com/monomax1/index.m3u8
+http://119.59.118.159/live/ch4/xxccxgd134/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="ช่องกีฬาไทย",MONOMAX1 (iptv591)
 http://6395online.com:8080/live/iptv591@gmail.com/456672/391359.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg" group-title="ช่องกีฬาไทย",MONOMAX2 (warpdooball)
@@ -535,8 +534,7 @@ https://www.livedoomovies.com/Monomax_PL_2HD/playlist.m3u8
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg" group-title="ช่องกีฬาไทย",MONOMAX2 (keela7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://keela7.com/
-https://keela7.com/monomax2/index.m3u8
+http://45.144.165.187:8080/live/playid/2535/22894.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg" group-title="ช่องกีฬาไทย",MONOMAX2 (iptv591)
 http://6395online.com:8080/live/iptv591@gmail.com/456672/391423.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/PL_Mono3.jpg" group-title="ช่องกีฬาไทย",MONOMAX3 (warpdooball) 
@@ -553,8 +551,7 @@ https://www.livedoomovies.com/Monomax_PL_3HD/playlist.m3u8
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/PL_Mono3.jpg" group-title="ช่องกีฬาไทย",MONOMAX3 (keela7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://keela7.com/
-https://keela7.com/monomax3/index.m3u8
+http://45.144.165.187:8080/live/playid/2535/22899.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/PL_Mono3.jpg" group-title="ช่องกีฬาไทย",MONOMAX3 (iptv591)
 http://6395online.com:8080/live/iptv591@gmail.com/456672/391424.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/PL_Mono4.jpg" group-title="ช่องกีฬาไทย",MONOMAX4 (warpdooball) 
@@ -571,8 +568,7 @@ https://www.livedoomovies.com/Monomax_PL_4HD/playlist.m3u8
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/PL_Mono4.jpg" group-title="ช่องกีฬาไทย",MONOMAX4 (keela7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://keela7.com/
-https://keela7.com/monomax4/index.m3u8
+http://45.144.165.187:8080/live/playid/2535/22898.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/PL_Mono4.jpg" group-title="ช่องกีฬาไทย",MONOMAX4 (iptv591) 
 http://6395online.com:8080/live/iptv591@gmail.com/456672/398282.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/PL_Mono5.jpg" group-title="ช่องกีฬาไทย",MONOMAX5 (warpdooball) 
