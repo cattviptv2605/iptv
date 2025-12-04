@@ -356,7 +356,7 @@ http://119.59.118.159/live/ch57/xxccxgd134/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี", trueEXPLOREWILD
 http://45.144.165.187:8080/live/xtreamvip/12345/49.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี", trueEXPLORELIFE
-http://119.59.118.159/live/ch57/xxccxgd134/index.m3u8
+https://live2.stream.liveplayback.net/dookeela/trueexplorelife/chunks.m3u8?nimblesessionid=88167089
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี", trueEXPLORELIFE
 http://45.144.165.187:8080/live/xtreamvip/12345/52.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี", trueEXPLORESCI
