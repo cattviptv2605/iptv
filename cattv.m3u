@@ -1293,7 +1293,7 @@ https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport6_nz.m3u
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport7_nz.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport8.png" group-title="ช่องกีฬาต่างประทศ", SkySport8_NZ
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/kysport8_nz.m3u8
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport8_nz.m3u8
 #EXTINF:-1 tvg-logo="http://smartstreams.org:25461/images/a291bc6983e8c863935c00407e5ededb.png" group-title="ช่องกีฬาต่างประทศ", SUPERSPORT ACTION
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportaction.m3u8
