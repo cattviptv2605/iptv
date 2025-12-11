@@ -226,13 +226,11 @@ http://119.59.118.159/live/ch60/xxccxgd134/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง", trueFILM1
 http://119.59.118.159/live/ch54/xxccxgd134/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง", trueFILM1
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm1.m3u8
+http://45.144.165.187:8080/live/xtreamvip/12345/67.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง", trueFILM2
 http://119.59.118.159/live/ch55/xxccxgd134/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง", trueFILM2
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm2-1.m3u8
+http://45.144.165.187:8080/live/xtreamvip/12345/79.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง", trueMOVIEHITS
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/truemoviehits.m3u8
