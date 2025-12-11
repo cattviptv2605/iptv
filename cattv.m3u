@@ -332,7 +332,9 @@ https://github.com/cattviptv2605/documentary/raw/refs/heads/main/animalplanet.m3
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี", trueEXPLOREWILD
 http://119.59.118.159/live/ch57/xxccxgd134/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี", trueEXPLOREWILD
-http://45.144.165.187:8080/live/xtreamvip/12345/49.m3u8
+#EXTVLCOPT:http-referrer=https://dooball6662.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://upper-scotch.love2watch.org:9307/v5/WDNwTs2G36va_zBBhTVsXA/1765419879/93bc71a7ada06af8b50844745caffb54/Q_sfhzgAEanvU_9JdF7pdw/1765430559/live/lx-origin/sd-expwild_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี", trueEXPLORELIFE
 http://119.59.118.159/live/ch58/xxccxgd134/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี", trueEXPLORELIFE
