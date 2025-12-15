@@ -113,7 +113,7 @@ http://45.136.252.97:8081/app/thairathtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO3HD.PNG" group-title="ช่องทีวีดิจิตอล", CH3
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0003/DASH/B0003.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=e09d209d8dfea2d91b0412756dfbf4ff&chunkHttps=true&tmid=B0003&tpbk=8Tx5grtcwgeym26q&rrt=1765671297&tmod=rfk&rsid=ea14845a-dd0e-4b22-95b7-174c817e71af&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1765757696
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0003/DASH/B0003.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d4a52a606433a992e2b008ce7a39b3f9&chunkHttps=true&tmid=B0003&tpbk=Ktt7fN9LaoKhHo8g&rrt=1765764097&tmod=rfk&rsid=05ce0b71-e23c-4ce7-8691-3592ccc89b10&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1765850497
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO3HD.PNG" group-title="ช่องทีวีดิจิตอล", CH3
 http://45.136.252.97:8081/app/ch3hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="ช่องทีวีดิจิตอล", AmarinTV
@@ -130,7 +130,7 @@ http://45.136.252.97:8081/app/ch7hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล", PPTV
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0022/DASH/B0022.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=e09d209d8dfea2d91b0412756dfbf4ff&chunkHttps=true&tmid=B0003&tpbk=8Tx5grtcwgeym26q&rrt=1765671297&tmod=rfk&rsid=ea14845a-dd0e-4b22-95b7-174c817e71af&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1765757696
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0022/DASH/B0022.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d4a52a606433a992e2b008ce7a39b3f9&chunkHttps=true&tmid=B0003&tpbk=Ktt7fN9LaoKhHo8g&rrt=1765764097&tmod=rfk&rsid=05ce0b71-e23c-4ce7-8691-3592ccc89b10&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1765850497
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล", PPTV
 http://45.144.166.242:1935/PPTV/t3_pptv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG" group-title="ช่องทีวีดิจิตอล", TopNews
@@ -257,7 +257,6 @@ https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilmasia1.m3u8
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง", trueSeries
 #EXTVLCOPT:http-referrer=https://github.com/
-#EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="ช่องบันเทิง", trueASIANMORE
 #EXTVLCOPT:http-referrer=https://github.com/
@@ -321,17 +320,20 @@ http://49.0.64.96:8007/PING
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="ช่องสารคดี", Discovery
-http://119.59.118.159/live/ch24/xxccxgd134/index.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discovery1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี", DiscoveryAsia
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discoveryasia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องสารคดี", DiscoveryAsia
-http://45.144.165.187:8080/live/xtreamvip/12345/41.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discoveryasia1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่องสารคดี", History
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/history.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่องสารคดี", History
-http://119.59.118.159/live/ch52/xxccxgd134/index.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/history1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C19N84f9/IMG-2447.png" group-title="ช่องสารคดี", H2
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C19N84f9/IMG-2447.png" group-title="ช่องสารคดี", H2
@@ -343,18 +345,23 @@ http://66.90.99.154:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/animalplanet.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี", trueEXPLOREWILD
-http://119.59.118.159/live/ch57/xxccxgd134/index.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexplorewild.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี", trueEXPLOREWILD
-http://45.144.165.187:8080/live/xtreamvip/12345/49.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexplorewild1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี", trueEXPLORELIFE
-http://119.59.118.159/live/ch58/xxccxgd134/index.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexplorelife.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องสารคดี", trueEXPLORELIFE
-http://45.144.165.187:8080/live/xtreamvip/12345/52.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexplorelife1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี", trueEXPLORESCI
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexploresci.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี", trueEXPLORESCI
-http://119.59.118.159/live/ch56/xxccxgd134/index.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexploresci1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0" group-title="ช่องสารคดี", BBCearth
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/bbcearth.m3u8
@@ -401,7 +408,7 @@ https://github.com/cattviptv2605/documentary/raw/refs/heads/main/dmax.m3u8
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/truexzyte.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" group-title="ช่องสารคดี", trueX-ZYTE
 #EXTVLCOPT:http-referrer=https://github.com/
-http://119.59.118.159/live/ch66/xxccxgd134/index.m3u8
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/truexzyte1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="ช่องสารคดี", afn
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/documentary/raw/refs/heads/main/asianfoodchannel.m3u8
@@ -424,34 +431,38 @@ https://github.com/cattviptv2605/documentary/raw/refs/heads/main/foodnetwork.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ช่องสารคดี", Samrujlok
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=e09d209d8dfea2d91b0412756dfbf4ff&chunkHttps=true&tmid=B0003&tpbk=8Tx5grtcwgeym26q&rrt=1765671297&tmod=rfk&rsid=ea14845a-dd0e-4b22-95b7-174c817e71af&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1765757696
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d4a52a606433a992e2b008ce7a39b3f9&chunkHttps=true&tmid=B0003&tpbk=Ktt7fN9LaoKhHo8g&rrt=1765764097&tmod=rfk&rsid=05ce0b71-e23c-4ce7-8691-3592ccc89b10&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1765850497
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ช่องสารคดี", Samrujlok
-http://119.59.118.159/live/ch50/xxccxgd134/index.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/samrujlok1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="ช่องสารคดี", MySci
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0152/DASH/V0152.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=e09d209d8dfea2d91b0412756dfbf4ff&chunkHttps=true&tmid=B0003&tpbk=8Tx5grtcwgeym26q&rrt=1765671297&tmod=rfk&rsid=ea14845a-dd0e-4b22-95b7-174c817e71af&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1765757696
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0152/DASH/V0152.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d4a52a606433a992e2b008ce7a39b3f9&chunkHttps=true&tmid=B0003&tpbk=Ktt7fN9LaoKhHo8g&rrt=1765764097&tmod=rfk&rsid=05ce0b71-e23c-4ce7-8691-3592ccc89b10&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1765850497
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="ช่องสารคดี", MySci
-http://6395online.com:8080/live/iptv591@gmail.com/456672/12194.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/mysci1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="ช่องสารคดี", Animal Show
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0153/DASH/V0153.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=e09d209d8dfea2d91b0412756dfbf4ff&chunkHttps=true&tmid=B0003&tpbk=8Tx5grtcwgeym26q&rrt=1765671297&tmod=rfk&rsid=ea14845a-dd0e-4b22-95b7-174c817e71af&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1765757696
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0153/DASH/V0153.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d4a52a606433a992e2b008ce7a39b3f9&chunkHttps=true&tmid=B0003&tpbk=Ktt7fN9LaoKhHo8g&rrt=1765764097&tmod=rfk&rsid=05ce0b71-e23c-4ce7-8691-3592ccc89b10&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1765850497
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="ช่องสารคดี", Animal Show
 #EXTVLCOPT:http-referrer=https://github.com/
-http://119.59.118.159/live/ch30/xxccxgd134/index.m3u8
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/animalshow1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="ช่องสารคดี", Khong Dee Thailand
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0154/DASH/V0154.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=e09d209d8dfea2d91b0412756dfbf4ff&chunkHttps=true&tmid=B0003&tpbk=8Tx5grtcwgeym26q&rrt=1765671297&tmod=rfk&rsid=ea14845a-dd0e-4b22-95b7-174c817e71af&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1765757696
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0154/DASH/V0154.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d4a52a606433a992e2b008ce7a39b3f9&chunkHttps=true&tmid=B0003&tpbk=Ktt7fN9LaoKhHo8g&rrt=1765764097&tmod=rfk&rsid=05ce0b71-e23c-4ce7-8691-3592ccc89b10&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1765850497
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="ช่องสารคดี", Khong Dee Thailand
-http://154.215.14.8:8080/live/iptv591@gmail.com/456672/140164.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/khongdee.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="ช่องสารคดี", Thainess
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0155/DASH/V0155.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=e09d209d8dfea2d91b0412756dfbf4ff&chunkHttps=true&tmid=B0003&tpbk=8Tx5grtcwgeym26q&rrt=1765671297&tmod=rfk&rsid=ea14845a-dd0e-4b22-95b7-174c817e71af&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1765757696
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0155/DASH/V0155.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d4a52a606433a992e2b008ce7a39b3f9&chunkHttps=true&tmid=B0003&tpbk=Ktt7fN9LaoKhHo8g&rrt=1765764097&tmod=rfk&rsid=05ce0b71-e23c-4ce7-8691-3592ccc89b10&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1765850497
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="ช่องสารคดี", Thainess
-http://154.215.14.8:8080/live/iptv591@gmail.com/456672/228542.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/thainess.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png" group-title="ช่องสารคดี", AMAZING
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://49.0.64.96:8007/AMAZING
