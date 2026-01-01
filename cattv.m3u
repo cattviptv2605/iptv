@@ -594,8 +594,8 @@ https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX8.m3u8
 http://6395online.com:8080/live/iptv591@gmail.com/456672/398292.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2025/10/27/ebbad850-b303-11f0-b265-23dfa726a2d7_webp_original.webp" group-title="ช่องกีฬาไทย",TruePremierFootball3 (warpdooball)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tpf3/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truepremierfootball3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2025/10/27/ec2fe140-b303-11f0-9a71-5d73f0864d0d_webp_original.webp" group-title="ช่องกีฬาไทย",TruePremierFootball4 (warpdooball)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
