@@ -990,23 +990,17 @@ https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport507.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/hub-1.png" group-title="ช่องกีฬาต่างประทศ",Hubpremier1
 http://filex.me:8080/live/MAS101A/MAS101AABB/495230.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mrZwamR.png" group-title="ช่องกีฬาต่างประทศ",Hubpremier2
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier2.m3u8
+http://filex.me:8080/live/MAS101A/MAS101AABB/495231.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0A6bP0g.png" group-title="ช่องกีฬาต่างประทศ",Hubpremier3
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier3.m3u8
+http://filex.me:8080/live/MAS101A/MAS101AABB/495232.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RTgyfAe.png" group-title="ช่องกีฬาต่างประทศ",Hubpremier4
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier4.m3u8
+http://filex.me:8080/live/MAS101A/MAS101AABB/495233.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XhX3oUI.png" group-title="ช่องกีฬาต่างประทศ",Hubpremier5
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier5.m3u8
+http://filex.me:8080/live/MAS101A/MAS101AABB/495234.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9F7wNgI.png" group-title="ช่องกีฬาต่างประทศ",Hubpremier6
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier6.m3u8
+http://filex.me:8080/live/MAS101A/MAS101AABB/495235.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="ช่องกีฬาต่างประทศ",Hubpremier7
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier7.m3u8
+http://filex.me:8080/live/MAS101A/MAS101AABB/495236.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/stYijJ1.png" group-title="ช่องกีฬาต่างประทศ",Hubpremier8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier8.m3u8
