@@ -321,6 +321,12 @@ http://49.0.64.96:8007/IZAA
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง", movies5
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://49.0.64.96:8007/PING
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง", movies6
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง", movies7
+http://iptv.ndasat.xyz:88/live/559684668698871/559684668698871/97061.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="ช่องบันเทิง", movies8
+http://iptv.ndasat.xyz:88/live/559684668698871/559684668698871/97037.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="ช่องสารคดี", Discovery
