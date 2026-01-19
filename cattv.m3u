@@ -2236,4 +2236,10 @@ https://main.24playerhd.com/newplaylist/0a791aeae4ba21a53a0d7278/0a791aeae4ba21a
 #EXTVLCOPT:http-referer=https://www.24-hdd.com/
 https://main.24playerhd.com/newplaylist/0a791aeae4ba21a53a0d7278/0a791aeae4ba21a53a0d7278.m3u8
 
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/01/8.jpg" group-title="Love Between Lines เกมรักข้ามบทบาท (2026)",Love Between Lines เกมรักข้ามบทบาท (2026) EP21
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/d2f15a51fcedeb75adefefcacf6c9af4/master.m3u8
+#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/01/8.jpg" group-title="Love Between Lines เกมรักข้ามบทบาท (2026)",Love Between Lines เกมรักข้ามบทบาท (2026) EP22
+#EXTVLCOPT:http-referer=https://goseries4k.com/
+https://ok-nah.com/hls/d2f15a51fcedeb75adefefcacf6c9af4/master.m3u8
 
