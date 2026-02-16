@@ -1,14 +1,5 @@
 #EXTM3U url=https://raw.githubusercontent.com/cattviptv2605/iptv/main/cattv.m3u
 
-#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/01/9-8.jpg" group-title="My Page in the 90s วันที่หัวใจเผลอรัก (2026)",My Page in the 90s วันที่หัวใจเผลอรัก (2026) EP5
-#EXTVLCOPT:http-referer=https://goseries4k.com/
-https://ok-nah.com/hls/9a63371ad91bc585c46691024f74fa21/master.m3u8
-#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/01/9-8.jpg" group-title="My Page in the 90s วันที่หัวใจเผลอรัก (2026)",My Page in the 90s วันที่หัวใจเผลอรัก (2026) EP6
-#EXTVLCOPT:http-referer=https://goseries4k.com/
-https://ok-nah.com/hls/b46feb9d20536bf8c04da84fa03fbfbd/master.m3u8
-#EXTINF:-1 tvg-logo="https://goseries4k.com/wp-content/uploads/2026/01/9-8.jpg" group-title="My Page in the 90s วันที่หัวใจเผลอรัก (2026)",My Page in the 90s วันที่หัวใจเผลอรัก (2026) EP7
-#EXTVLCOPT:http-referer=https://goseries4k.com/
-https://ok-nah.com/hls/fe44b7ca0dc9fcb7adb21973ef3d6849/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png" group-title="ช่องทีวีดิจิตอล", NBTHD
 #EXTVLCOPT:http-referrer=https://cdn-edge.iiptvcdn.com
